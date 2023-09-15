@@ -1,6 +1,7 @@
 import configparser
 import re
 import requests
+import sys
 
 CONFIG_PATH = 'iptv.ini'
 
@@ -63,4 +64,13 @@ def generate_m3u8():
 
 # Execution starts here
 m3u8_data = generate_m3u8()
-print(m3u8_data)
+
+# Check if stdout is redirected
+if sys.stdout.isatty():
+    # Not redirected, write to a file
+    with open('iptv.m3u8', 'w') as output_file:
+        output_file.write(m3u8_data)
+else:
+    # Redirection or piping is occurring, print to stdout
+    print(m3u8_data)
+    
