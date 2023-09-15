@@ -1,14 +1,8 @@
 #EXTM3U url-tvg="epg.xml"
 #EXTINF:-1 tvg-name="ert1",ERT1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
-#EXTINF:-1 tvg-name="ert1",ERT1
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ert2",ERT2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
-#EXTINF:-1 tvg-name="ert2",ERT2
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="ert3",ERT3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 tvg-name="ert3",ERT3
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="mega",MEGA
