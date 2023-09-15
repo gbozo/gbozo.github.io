@@ -10,8 +10,8 @@ pool:
   name: Default
 strategy:
   matrix:    
-    Python311:
-      python.version: '3.11'
+    Python3115:
+      python.version: '3.11.5'
 
 steps:
 - task: UsePythonVersion@0
