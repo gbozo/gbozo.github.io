@@ -20,11 +20,11 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 - script: |
-    python3 -m pip install --upgrade pip
-    pip install -r requirements.txt
+    python3 -m pip3 install --upgrade pip3
+    pip3 install -r requirements.txt
   displayName: 'Install dependencies'
 
 - script: |
-    pip install pytest pytest-azurepipelines
+    pip3 install pytest pytest-azurepipelines
     pytest
   displayName: 'pytest'
