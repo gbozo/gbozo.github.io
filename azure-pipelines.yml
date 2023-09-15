@@ -31,6 +31,7 @@ steps:
 - script: |
     python3 iptv.py > tv/iptv.m3u8
     curl -o tv/epg.xml https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml
+    git add tv/iptv.m3u8 tv/epg.xml
 
 - checkout: self
   persistCredentials: true
