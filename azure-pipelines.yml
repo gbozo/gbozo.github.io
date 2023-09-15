@@ -18,6 +18,10 @@ steps:
   inputs:
     versionSpec: '$(python.version)'
   displayName: 'Use Python $(python.version)'
+- script: |
+    git config --global user.email "gbozouris@gmail.com"
+    git config --global user.name "George Bz"
+  displayName: 'Set commit to GB'
 
 - script: |
     python3 -m pip install --upgrade pip
@@ -30,8 +34,7 @@ steps:
     mv iptv.m3u8 tv/iptv.m3u8
     mv epg.xml tv/epg.xml
 
-- script: |
-     git add .
-     git commit -am "fresh m3u8 and epg"
-     git push production master
+- checkout: self
+  persistCredentials: true
+
   displayName: 'Commit and push'
