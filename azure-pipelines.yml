@@ -6,7 +6,7 @@
 # YAML file in the main branch
 schedules:
 - cron: '0 0 */3 * *'
-  displayName: Daily midnight build
+  displayName: Midnight build every 3 days
   branches:
     include:
     - main
