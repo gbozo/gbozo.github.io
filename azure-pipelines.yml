@@ -25,6 +25,13 @@ steps:
   displayName: 'Install dependencies'
 
 - script: |
-    pip3 install pytest pytest-azurepipelines
-    pytest
-  displayName: 'pytest'
+    python3 iptv.py
+    curl -o epg.xml https://github.com/GreekTVApp/epg-greece-cyprus/releases/download/EPG/epg.xml
+    mv iptv.m3u8 tv/iptv.m3u8
+    mv epg.xml tv/epg.xml
+
+- script: |
+     git add .
+     git commit -am "fresh m3u8 and epg"
+     git push production master
+  displayName: 'Commit and push'
