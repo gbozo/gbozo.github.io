@@ -18,6 +18,8 @@ urls = sorted(config['URLs'].items(), key=lambda x: int(re.search(r'\d+', x[0]).
 # Stream title filters section
 title_filters = sorted(config['StreamTitleFilters'].items(), key=lambda x: int(re.search(r'\d+', x[0]).group()))
 
+# Retrieve patterns
+url_filters = [re.compile(filter) for filter in config['URLFilters'].values()]
 
 def generate_m3u8():
     output = f"#EXTM3U url-tvg=\"{epgurl}\"\n"
@@ -50,10 +52,10 @@ def generate_m3u8():
         if re.search(r'\.m3u8?$', url, re.I):
             output_line = f"#EXTINF:-1 tvg-name=\"{epgname if epgname else lc_stream_name}\",{stream_name}\n{url}\n"
             output += output_line
-        else:
+        else:                     
+            # Check each link against all patterns
             for link in re.findall(r'(https?:\/\/[^\s]+?\.m3u8?)', content, re.I):
-                if any(pattern in link for pattern in ["adman.gr", "wolrdwide-karta_5min",
-                                                       r"^https?:\/\/ert-live[a-z0-9\-]+\.siliconweb\.com"]):
+                if any(filter.match(link) for filter in url_filters):                    
                     continue
                 if link not in global_unique_m3u8:
                     output_line = f"#EXTINF:-1 tvg-name=\"{epgname if epgname else lc_stream_name}\",{stream_name}\n{link}\n"
