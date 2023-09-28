@@ -49,24 +49,6 @@
   <display-name>ERT 3 HD</display-name>
   <icon src="data:image/;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAACECAMAAADMWbUpAAAACXBIWXMAAAsTAAALEwEAmpwYAAADAFBMVEVHcEwdrUsdrUsdrUscrUsdrUsdrUsdrUsdrUscrUsdrUsdrUsdrUsdrUsdrUsdrUsdrUsdrUserUodrkscrUsdrUodrUscrUocrUsdrEscrUsdrUscrUodrUsdrEscrUscrUscrUsdrUsdrUscrUscrUscrUsdrkscrUscrUsdrUsdrUodrUscrUodrUsdrUsdrEscrUscrUodrUscrUocrUocrUscrUodrUscrEscrUodrUscrUocrUscrUocrUodrUscrUocrUscrUocrEscrUscrUocrEscrEodrUscrEscrEscrUscrUscrEocrUscrEocrUocrUsdrUscrUocrUscrUscrUscrUocrEscrUscrUodrUscrEscrUocrEocrUocrUocrUscrUscrUscrUscrUodrUocrUscrUocrUscrUscrUocrUscrEocrUsdrEocrUscrUscrUocrEocrUodrUocdYYcrUscrUscrUscrEocrUoFq0gcrUscrUscrUocrEscrUocrEsdrEodrUocrEsdrUodrUodrEsdrUsdrEscrUodrEodrEsdrUsdrUscrEsdrEscrEsdrUodrUodrUocrUv/rEodrUv///8drEscrEobrEkZq0jh9Oc2tl8arEkcrUocrUuc27AbrEoarEgaq0j5/fp90Jj8/fwhrk49uWWG055LvW9/0Zn9/v3T79z+/v4ztV2E0p0/umYnsVNtyorz+vZryYnq9+4Yq0csslb8/v3W8N8frk0qsVUir0/p9+5Pv3NzzJD4/Pm75slHvG3m9uskr1Hv+fK55ceb2q/7/fve8+Vlx4R3zpPb8uJ6zpWZ2q7F6tEws1qj3rZ1zZEztVxOv3K75sjX8N/L7NXM7Nay48J8z5b1+/cvs1mm3rhtyotixoLx+vSs4b3A6M1TwHZWwnm048NdxH7k9emw4sCJ1KG35MWH058us1nn9uw0tV55zpQytFvI69PU793g8+Zwy43Q7tlpyIgdrEoTAC4Aay5HcExULwk5AAABAHRSTlMAj47iLiCyvgrr8V/+M/Q+OPIBCPwrUzTYlBi76z3fUPfvnx4Vwf4FJhIJ/eoGsefbAwIqzArmGtUZiMclDR9FBDAcyQsR+PkqzzPDvdN58Kpd++TtI+nhSk1uFyn0jbNRpxOk89rfrvrdJzvXfmpwl5I8B0fSD2VlaD/QbPLyIe/nN52JVIKYtNdzVKFavELQ63Z8m7hnYf////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AgmhrwAAABdxJREFUeNrtmmlYE0cYgNNqQJCCBijeUI5yhKhEEAUknGLRAhIQRcADr4DVej4qPlbtaWvv2j5rdgMJkiggFA8EEQtVvO+qtfd937V3+6PL7ibZJLuwm0OJz/f+2szOzubdmZ35ZmYFAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgSOi6xS5cyVktci652CEId1xWOZecUM5DzjXGyeT68ZEbYJ+bSsr6MzOFfHppvmbpCbPTjFcHJ/dnRSi97XK+C92YGb+aOO8/wyxdvi1kxaxw6upH5r3oxkZqCqscijGA2l/ObzDL0xPfS5wfaHlGgwRMnU5Vn3CHhu3xu41jk0Obqyy58QZqd7l73Fn+mw8l58F4dnJpAnl9QjSb3AxWOdXflZZc7+wzcogyNZMsQDaCv9yenRbs/leH9Bk5BIkm/3xUnIc95K52oH1JTjM6nciRP9YOcuePq5C+JIfkLieiJGmc0na5f65ht1JO3Kscsi2RyLJyE+PZyCmsco3mbrVXtKhj5cQLBtPIm2kuV01A919GZAmfimcPoNU5Wc6aRDY59de7SM790EXKNf2OIY6Ve/D5QTT8JpnLTS0sLNyYVUoLEud4E+2yCM++3mCnjN5AFFAWxT6Iq0naGmsJt/Y9JhVnlIuKTaQOQ1OC8JtJgoTCxNj5Ev5y8UzPiya3grxfeYUhZZTQkK/c0yA3TcIxtsT2HyUr7uh+jDn8Cp6mkFGxUOpSP4EgLLpALl+0xuWlIt5yk3qWG0olzTJ4FK805PMyyjE2KgY5VNvYTr5xjW0os9ywhdX+5FHYjMleeLCYlxEfkqrIQBTrJPatOb1cuiEoyfW3RQ6roipu9656jLlZDhtyv15ufMBIXG5EQVnM2lhZaUbxeim/d87LT0+CtAe5iOcMPcrjNsih2I+v63vLyxdRlJvcqKDuXwNezpAn85Lzyb6PInva2h7kjJPqjJk2yKkP/mUcCw5/zjgrYJMTpM1BSqTWjXOaF8LZ5URP5+pTNvtZL4cib+2jjXSV76h7lMs3lRNMF0enWyn3AJPcw6E43inL3QwpE4ZZL6duOGwyjn/VgTLKvTaRoHyMqVzy5jFh9pRTjMYZvtDHmC8wyWo5DdZwAOf65fP6aUGrikkO2TKWoMDH00QuX+6ebE85RIljMqmbK7DhncNUOMiNS79Sdh8aZ6s0OWW/CQRjc03lEsZvtq+cOcZux6qhgOwyda0tpNx7n9QwNcuBwQRbzZrloAWLEq2UW8NFzn2WwGY5XK/zLCn35kE1jw5lo2ZHBB+5yNJAPVnevcuJ4yTWy9Hib9XPpFzLMRX3oSA2Xvwqz/BLpIcxQjHFY7tJV8xPDtVhFnJnTmq5yBFraomlypBgu8aWJmQ8aVo4L7maI603tdQbVnP6XapZ1qs5yMllvsmyrApk6SCBw+QUy9IE1svp3u5qunREpUZRVFd3gJrTfdBh2VtOVFRTPXJY5BIicFZm523y+c9zcSbPWUHqfG8aq0SsckuGxI0zL4ePHLa/CZ8K/HH8YHPd6ZOffkwNBedqLOXShy7eSsV8gfPwewZtx4fanFeyNnDbTKDJZbsOp/FUprmcPKSbOY8+MTfFshwecii2l5jqtJ96/8RVQ5jyxTc6y0FclBQq1R8liYjfoUlRVq2hKOkgz1iEXxHdsMyjeMip6y9YLu3t/LLuti7KDu2pHO5yZhEzxfcNWuROkDvyU62F25nPatA7Qg795bc/zequ8hDi4KW9WySHD23am3ubzhvVuk40sCwzOKFc9/7ctUPfXmjBm+e+rlNnW5vVKHJb5BD+cjG9x5YopqqrOnbxykfHv6vv1KEO2lnNLGYLjPnJjTQuyrpGcFwg6p7QtanUqMO2jYMfupuZOHJ3segxfUKJrKdyZhvLeTaqr2z439FfM/TN71CcTG52BXc3TY7EueSiZpbcxZU4Pyf79gsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCx/A83CuocX4xdoQAAAABJRU5ErkJggg=="/>
 </channel>
-<programme start="20230928164500 +0300" stop="20230928174500 +0300" channel="376f6d09778795dc2d75b1332449949e">
-  <title lang="eng">[K8] Oikogeneiakes Istories</title>
-  <title lang="gre">[K8] Οικογενειακές Ιστορίες</title>
-  <desc lang="eng">A scripted reality daily program that focuses on everyday family issues.Hidden truths within couples, parents unable to deal with their children's problems, relationships that fall apart and life-changing decisions.</desc>
-  <desc lang="gre">Η τυπολογία του scripted reality, που πρώτος ο Αlpha «σύστησε», συνεχίζει μέσα από τα επεισόδια Οικογενειακών Ιστοριών. Η εκπομπή εστιάζει σε κοινωνικά θέματα και προβλήματα που πολλές οικογένειες καλούνται καθημερινά να επιλύσουν. Κρυμμένα μυστικά μέσα στα ζευγάρια, γονείς ανέτοιμοι να αντιμετωπίσουν τα παιδιά τους και γονείς που τα πληγώνουν χωρίς να το καταλαβαίνουν, σχέσεις που ανατρέπονται και αποφάσεις που αλλάζουν μια ζωή μέσα σε μια στιγμή. Θεματολογία που εμπνέεται από το σήμερα αλλά και ιστορίες που πατούν σε γνωστά, αληθινά περιστατικά.</desc>
-</programme>
-<programme start="20230928174500 +0300" stop="20230928185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
-  <title lang="eng">[K8] To Pio Megalo Pazari</title>
-  <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
-  <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
-</programme>
-<programme start="20230928185000 +0300" stop="20230928200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
-  <title lang="eng">[K] Alpha News</title>
-  <title lang="gre">[K] Κεντρικό Δελτίο Ειδήσεων</title>
-  <desc lang="eng">Alpha news.</desc>
-  <desc lang="gre">Ειδήσεις άμεσες, ειδήσεις αντικειμενικές, ειδήσεις αξιόπιστες, ειδήσεις όπως είναι. Με κυλιόμενους τίτλους ειδήσεων.</desc>
-</programme>
 <programme start="20230928200000 +0300" stop="20230928210000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] O Paradeisos Twn Kyriwn</title>
   <title lang="gre">[K8] Ο Παράδεισος Των Κυριών</title>
@@ -106,7 +88,7 @@
 <programme start="20230929051500 +0300" stop="20230929061500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari (R)</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι (Ε)</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20230929061500 +0300" stop="20230929064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -166,7 +148,7 @@
 <programme start="20230929174500 +0300" stop="20230929185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20230929185000 +0300" stop="20230929200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -188,8 +170,8 @@
   <desc lang="gre">Κωμική σειρά ελληνικής παραγωγής 2022-2023. Επεισόδιο 64. Παίζουν: Ελένη Κοκκίδου, Αντώνης Αντωνίου, Κλέλια Ρένεση, Βλαδίμηρος Κυριακίδης, Άννα Κουτσαφτίκη, Σπύρος Τσεκούρας, Μαρία Χάνου, Σπύρος Χατζηαγγελάκης, Κωνσταντίνα Λιναρδάτου, Άννη Θεοχάρη, Τόλης Παπαδημητρίου. Σενάριο: Έλενα Σολωμού, Σάρα Γανωτή, Γιάννης Διακάκης, Θέμης Γκιρτής, Παναγιώτης Χριστόπουλος. Σκηνοθεσία: Διονύσης Φερεντίνος. Βασισμένο στη σειρά Escenas de Matrimonio των MEDIASET ESPANA &amp; ALBA ADRIATICA (distributed by Mediterraneo). Παραγωγή: GREEN PIXEL PRODUCTIONS Σενάριο: Έλενα Σολωμού, Σάρα Γανωτή. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
 <programme start="20230929220000 +0300" stop="20230929230000 +0300" channel="376f6d09778795dc2d75b1332449949e">
-  <title lang="eng">[K8] Min Arxizis Ti Mourmoura, X (R)</title>
-  <title lang="gre">[K8] Μην Αρχίζεις Τη Μουρμούρα, X (Ε)</title>
+  <title lang="eng">[K] Min Arxizis Ti Mourmoura, X (R)</title>
+  <title lang="gre">[K] Μην Αρχίζεις Τη Μουρμούρα, X (Ε)</title>
   <desc lang="eng">Greek comedy series. Four different couples; Four different takes on the funny side of the battle between marriage vs everyday life. Cast: Antonis Antoniou, Eleni Kokkidou, Vladimiros Kyriakidis, Klelia Renesi, Spiros Tsekouras, Anna Koutsaftiki, Spiros Hatziaggelakis, Maria Hanou, Konstantina Linardatou.</desc>
   <desc lang="gre">Κωμική σειρά ελληνικής παραγωγής 2022-2023. Επεισόδιο 65. Η Βούλα είναι στενοχωρημένη γιατί πρέπει να «σκοτώσει» έναν ήρωα της από το σήριαλ, αλλά ο Μηνάς δεν συμμερίζεται τον πόνο της. Εν τω μεταξύ, κάτι μουρμούρες που ψάρεψε ο αδελφός της, όπως φαίνεται θα αποβούν μοιραίες... Ή μήπως όχι; Ο Άγγελος και η Βέλη θέλουν να μάθουν στον Κανάτη πώς να ζει μόνος του, όμως αυτός έχει βρει μία εφαρμογή τεχνητής νοημοσύνης... Η Ξένια επιπλήττει το Μπάμπη, που είπε να γίνουν τα βαφτίσια στην ενορία τους, ενώ τα παιδιά θέλουν σε ξωκλήσι. Όλα όμως ανατρέπονται, όταν ο παπάς στο ξωκλήσι, δεν δέχεται να κάνει την βάφτιση, γιατί ο Χάρης και η Σοφία έχουν παντρευτεί με πολιτικό γάμο. Ποια λύση θα βρεθεί τελικά; Η Καίτη πετάει από τη χαρά της γιατί θα έρθει για καλοκαίρι ο γιος της Νικολίνος με την φίλη του. Το θέμα είναι πού θα μείνουν... Παίζουν: Ελένη Κοκκίδου, Αντώνης Αντωνίου, Κλέλια Ρένεση, Βλαδίμηρος Κυριακίδης, Άννα Κουτσαφτίκη, Σπύρος Τσεκούρας, Μαρία Χάνου, Σπύρος Χατζηαγγελάκης, Κωνσταντίνα Λιναρδάτου, Άννη Θεοχάρη, Τόλης Παπαδημητρίου. Σενάριο: Έλενα Σολωμού, Σάρα Γανωτή, Γιάννης Διακάκης, Θέμης Γκιρτής, Παναγιώτης Χριστόπουλος. Σκηνοθεσία: Διονύσης Φερεντίνος. Βασισμένο στη σειρά Escenas de Matrimonio των MEDIASET ESPANA &amp; ALBA ADRIATICA (distributed by Mediterraneo). Παραγωγή: GREEN PIXEL PRODUCTIONS Σενάριο: Έλενα Σολωμού, Σάρα Γανωτή. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
@@ -202,7 +184,7 @@
 <programme start="20230930011500 +0300" stop="20230930030000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] Doctor Dolittle 2</title>
   <title lang="gre">[K8] Doctor Dolittle 2: Ο Γιατρός Ξανατρελάθηκε (Doctor Dolittle 2)</title>
-  <desc lang="eng">Foreign movie.</desc>
+  <desc lang="eng">Foreign movie. Comedy, family, fantasy. Cast: Eddie Murphy, Kristen Wilson, Raven-Symone.</desc>
   <desc lang="gre">Κωμωδία φαντασίας, αμερικανικής παραγωγής 2001. O γνωστός γιατρός Ντούλιτλ με την ικανότητα να μιλάει στα ζώα, επιστρέφει. Αυτή τη φορά, πρέπει να μάθει στον Άρτσι, μια αρκούδα από ένα τσίρκο, όλα τα μυστικά του ρομαντισμού κ πως να κατακτήσει μια θηλυκή αρκούδα. Ο σκοπός τους; Να σώσουν  το ζωικό βασίλειο και το δάσος τους από τους καταπατητές γης και επίδοξους κατασκευαστές ουρανοξυστών. Έτσι, συναντά κάθε ζώο του δάσους και τα πείθει να μην τα παρατήσουν χωρίς μάχη. Ηθοποιοί: Έντι Μέρφι, Κρίστεν Γουίλσον, Ρέιβεν Σιμόν, Κέβιν Πόλακ, Τζέφρι Τζόουνς. Σκηνοθεσία: Στιβ Καρ. Σενάριο: Χιού Λόφτινγκ, Λάρρυ Λεβίν. Διάρκεια: 78'.</desc>
 </programme>
 <programme start="20230930030000 +0300" stop="20230930043000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -220,7 +202,7 @@
 <programme start="20230930051500 +0300" stop="20230930061500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari (R)</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι (Ε)</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20230930061500 +0300" stop="20230930064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -298,13 +280,13 @@
 <programme start="20230930210000 +0300" stop="20230930231500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K] I Hartopaixtra</title>
   <title lang="gre">[K] Η Χαρτοπαίχτρα</title>
-  <desc lang="eng">Greek movie.</desc>
+  <desc lang="eng">Greek movie. Cast: Rena Vlahopoulou, Labros Konstantaras.</desc>
   <desc lang="gre">Κωμωδία ελληνικής παραγωγής 1964. Η Αλέκα είναι μια παθιασμένη χαρτοπαίχτρα. Ο άνδρας της, ο γιος της και η κόρη της αγωνίζονται να βάλουν μυαλό στην άμυαλη μητέρα τους, αλλά μάταια...Η μανία της Αλέκας για το χαρτί, την οδηγεί στις πιο απίθανες επιπολαιότητες. Για να καλύψει τη χασούρα της από τα χαρτιά και να πληρώσει τα χρέη της, πουλάει οτιδήποτε χρήσιμο ή άχρηστο υπάρχει στο σπίτι της και μπορεί να πουληθεί! Όμως οι λογαριασμοί του τηλεφώνου, του νερού και του ηλεκτρικού μένουν απλήρωτοι. Ώσπου ο άνδρας της βρίσκει το φάρμακο που θα γιατρέψει το πάθος της: την κάνει να ζηλέψει, φλερτάροντας την καλύτερή της φίλη και συμπαίχτριά της. Το σχέδιο όμως δεν το γνωρίζουν τα παιδιά του και νομίζουν ότι και ο πατέρας τους πήρε τον κακό δρόμο. Παίζουν: Ρένα Βλαχοπούλου, Λάμπρος Κωνσταντάρας, Κώστας Βουτσάς, Χλόη Λιάσκου. Σενάριο - Σκηνοθεσία: Γιάννης Δαλιανίδης. Μουσική: Μίμης Πλέσσας. Διάρκεια: 94'. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
 <programme start="20230930231500 +0300" stop="20231001013000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] Gia Panta</title>
   <title lang="gre">[K12] Για Πάντα</title>
-  <desc lang="eng">Greek movie.</desc>
+  <desc lang="eng">Greek movie. Cast: Giannis Tsimitselis, Katerina Geronikolou.</desc>
   <desc lang="gre">Αισθηματικό δράμα ελληνικής παραγωγής 2020 [Το πρόγραμμα έχει σκηνές με σεξ και απρεπή εκφορά λόγου]. O Πέτρος είναι ένας 35χρονος επιτυχημένος σεφ και συλλέκτης βινυλίων που ψάχνει τον εαυτό του σε εφήμερες σχέσεις και νυχτερινές εξορμήσεις. Η Ζωή είναι μία ρομαντική κοπέλα που σχεδιάζει και ράβει παιδικά κοστούμια και ενδιαφέρεται για μια σταθερή σχέση. Οι δύο κόσμοι τους θα τεθούν υπό αμφισβήτηση όταν θα συναντηθούν τυχαία σε ένα βιβλιοπωλείο στο κέντρο της Αθήνας. Ωστόσο ένας δυνατός έρωτας θα γεννηθεί και θα επηρεάσει τη ζωή τους. Για πάντα! Ηθοποιοί: Γιάννης Τσιμιτσέλης, Κατερίνα Γερονικολού, Όλγα Δαμάνη, Ευγενία Σαμαρά, Γιώργος Αρμένης, Αλέξανδρος Αντωνόπουλος, Υρώ Λούπη, Θανάσης Παπαθανασίου, Βασιλική Ανδρίτσου. Σκηνοθεσία: Γιάννης Παπαδάκος. Σενάριο: Τσάγαν Ιρμάκ, Γιάννης Τσιμιτσέλης (διασκευή). Διάρκεια: 103'.</desc>
 </programme>
 <programme start="20231001013000 +0300" stop="20231001030000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -329,7 +311,7 @@
   <title lang="eng">[K8] Yperoha Plasmata (R)</title>
   <title lang="gre">[K8] Υπέροχα Πλάσματα (Ε)</title>
   <desc lang="eng">A comedy greek series. Two 30 years old girlfriends and their gay friend tell us their adventures in Athens and how they deal with their age crisis. Cast: Myrto Alikaki, Giorgos Pyrpasopoulos, Fedra Drouka.</desc>
-  <desc lang="gre">Ελληνική παραγωγή 2007-2008. Επεισόδιο 22: «Φτου ξελευθερία». Το τι σημαίνει «ελευθερία» και το πώς τη διαχειριζόμαστε απασχολεί τα υπέροχα πλάσματα. Το Μητσάκι αποφεύγει να αντιμετωπίσει τον πόνο που  της προκάλεσε η απόλυσή της απ' το σταθμό και ο χωρισμός της με τον Άρη, η Έλη συνεχίζει τις απόπειρες να έρθει σε επαφή με τον Γρηγόρη ο οποίος συνεχίζει να την αγνοεί, ενώ ο Μπίλι, χωρισμένος κι αυτός από το Νίκο, γνωρίζει κάποιον που του ανατρέπει τα δεδομένα περί αισθητικής και πρότυπου. Παίζουν: Μυρτώ Αλικάκη, Γιώργος Πυρπασόπουλος, Φαίδρα Δρούκα, Θέμις Μπαζάκα, Βλαδίμηρος Κυριακίδης, Μιχάλης Μαρίνος, κ.ά. Στο ρόλο της θείας Καραμέλας η Ελένη Ανουσάκη. Σενάριο: Μυρτώ Κοντοβά. Σκηνοθεσία: Νικόλας Δημητρόπουλος. Παραγωγή: STUDIO ATA.</desc>
+  <desc lang="gre">Ελληνική παραγωγή 2007-2008. Επεισόδιο 24. Παίζουν: Μυρτώ Αλικάκη, Γιώργος Πυρπασόπουλος, Φαίδρα Δρούκα, Θέμις Μπαζάκα, Βλαδίμηρος Κυριακίδης, Μιχάλης Μαρίνος, κ.ά. Στο ρόλο της θείας Καραμέλας η Ελένη Ανουσάκη. Σενάριο: Μυρτώ Κοντοβά. Σκηνοθεσία: Νικόλας Δημητρόπουλος. Παραγωγή: STUDIO ATA.</desc>
 </programme>
 <programme start="20231001061500 +0300" stop="20231001064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K] TV Sales</title>
@@ -418,14 +400,14 @@
 <programme start="20231001224000 +0300" stop="20231002001500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] O Giatros</title>
   <title lang="gre">[K8] Ο Γιατρός</title>
-  <desc lang="eng">Greek series.</desc>
+  <desc lang="eng">Greek series. Dr. Andreas Vrettos, a brilliant Head of Internal Medicine, has his life turned upside down after a traumatic brain injury. He survives but loses memory of the last twelve years of his life. Without his memories, Andrea awakens into an unfamiliar world where his loved ones have suddenly become strangers, new relationships are forgotten, and his medical triumphs are all but lost. The hospital is the only place he truly feels at home?and where he must rebuild his life as a patient, husband, father, and ultimately as a doctor. Inspired by a true story, the series seamlessly weaves Andrea's journey into procedural episodes, showcasing different clinical cases and the rich complexity of hospital life. Cast: Konstantinos Markoulakis, Dimitra Sigala, Vassiliki Troufakou.</desc>
   <desc lang="gre">Πρεμιέρα. Δραματική σειρά. Επεισόδιο 01: «Αμνησία». Ο Ανδρέας Βρεττός είναι ένας κορυφαίος γιατρός και διευθυντής παθολογίας σε ένα απ' τα καλύτερα πανεπιστημιακά νοσοκομεία της χώρας. Χωρισμένος, με βαρύ παρελθόν και πολύ αυστηρός στη δουλειά του, βλέπει τη  ζωή του να ανατρέπεται όταν ο πατέρας ενός ασθενή - που πέθανε από ιατρικό λάθος - τον πυροβολεί για να τον εκδικηθεί. Ο Ανδρέας σώζεται, αλλά λόγω της σφαίρας παθαίνει αμνησία, χάνοντας μέσα σε μια στιγμή τα τελευταία 12 χρόνια της ζωής του. Ξαναγίνεται ο εαυτός του δώδεκα χρόνια πριν, όταν ακόμα ήταν ένας απλός γιατρός, παντρεμένος με δύο παιδιά και τρελά ερωτευμένος με τη γυναίκα του. Ο κόσμος του διαλύεται όταν μαθαίνει ότι όχι μόνο έχει χωρίσει με τη γυναίκα του, αλλά και αυτό που διέλυσε τον γάμο τους ήταν η απώλεια του γιου του δώδεκα χρόνια πριν. Μην έχοντας άλλη επιλογή από το αποδεχτεί την αλήθεια αποφασίζει ότι η μόνη λύση είναι να ενώσει πάλι την οικογένειά του και ν' αρχίσει ξανά απ' την αρχή. Πρωταγωνιστούν: Κωνσταντίνος Μαρκουλάκης, Δήμητρα Σιγάλα, Βασιλική Τρουφάκου. Στο ρόλο του Παπαδόπουλου ο Βλαδίμηρος Κυριακίδης. Στο ρόλο της Αλίκης η Ιωάννα Τριανταφυλλίδου. Απόδοση σεναρίου: Παναγιώτης Ιωσηφέλης. Σκηνοθεσία: Γιώργος Παπαβασιλείου. Εκτέλεση Παραγωγής: Green Pixel. Based on a Format Created by Francesco Arlanch and Viola Rispoli'. 'Format licensed by Sony Pictures Television'. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
 <programme start="20231002001500 +0300" stop="20231002031500 +0300" channel="376f6d09778795dc2d75b1332449949e">
-  <title lang="eng">[K12] Terminator Genisys</title>
-  <title lang="gre">[K12] Εξολοθρευτής: Γένεσις (Terminator Genisys)</title>
-  <desc lang="eng">Foreign movie.</desc>
-  <desc lang="gre">Περιπέτεια επιστημονικής φαντασίας, αμερικανικής και καναδικής παραγωγής 2015 [Το πρόγραμμα περιέχει σκηνές βίας και απρεπή εκφορά λόγου]. Το 2029 ο Τζον Κόνορ, ηγέτης της Αντίστασης ενάντια στις μηχανες, στέλνει τον Κάιλ Ρις πίσω στο χρόνο για να προστατεύσει τη μητέρα του Σάρα, αλλά όταν φτάνει στο 1984, τίποτα δεν θα είναι όπως το περίμενε. Ηθοποιοί: Άρνολντ Σβαρτσενέγκερ, Τζέισον Κλαρκ, Εμίλια Κλαρκ, Τζέι Κόρτνεϊ. Σκηνοθεσία: Άλαν Τέιλορ. Σενάριο: Λαέτα Καλογρίδη, Πάτρικ Λουσιέρ, Τζέιμς Κάμερον. Διάρκεια: 113'.</desc>
+  <title lang="eng">[K12] Pretty Woman</title>
+  <title lang="gre">[K12] Pretty Woman</title>
+  <desc lang="eng">Foreign Movie. Comedy, Romance. Cast: Richard Gere, Julia Roberts, Jason Alexander.</desc>
+  <desc lang="gre">Ρομαντική κομεντί αμερικανικής παραγωγής 1990 [Το πρόγραμμα περιέχει σκηνές σεξ και ακατάλληλη φρασεολογία]. Ο φιλόδοξος επιχειρηματίας, Έντουαρντ Λιούις έχει μόλις φτάσει στο Λος Άντζελες για μια επιχειρηματική εκδήλωση. Προσπαθώντας να βρει πληροφορίες για τη σωστή διαδρομή, θα πέσει τυχαία πάνω σε μια πόρνη, τη Βίβιαν Γουάρντ, η οποία είναι πρόθυμη να τον βοηθήσει. Όχι φυσικά χωρίς κάποιο αντίτιμο, αφού δε συνηθίζει να κάνει ποτέ κάτι δωρεάν. Κεραυνοβολημένος από την εντυπωσιακή ομορφιά της, ο Έντουαρντ το προχωρά ένα βήμα παραπάνω και της προτείνει να γίνει η συνοδός του καθόλη τη διάρκεια της εβδομάδας που θα βρίσκεται εκεί. Είναι διατεθειμένος να πληρώσει όσα χρειαστεί. Η' τουλάχιστον, έτσι νομίζει...Ηθοποιοί: Τζούλια Ρόμπερτς, Ρίτσαρντ Γκιρ, Ραλφ Μπέλαμι, Τζέισον Αλεξάντερ. Σκηνοθεσία: Γκάρι Μάρσαλ. Σενάριο: Τζ. Φ. Λότον. Διάρκεια: 112'.</desc>
 </programme>
 <programme start="20231002031500 +0300" stop="20231002043000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] The Hot Zone</title>
@@ -502,7 +484,7 @@
 <programme start="20231002174500 +0300" stop="20231002185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231002185000 +0300" stop="20231002200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -526,7 +508,7 @@
 <programme start="20231002224000 +0300" stop="20231003001500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] O Giatros</title>
   <title lang="gre">[K8] Ο Γιατρός</title>
-  <desc lang="eng">Greek series.</desc>
+  <desc lang="eng">Greek series. Dr. Andreas Vrettos, a brilliant Head of Internal Medicine, has his life turned upside down after a traumatic brain injury. He survives but loses memory of the last twelve years of his life. Without his memories, Andrea awakens into an unfamiliar world where his loved ones have suddenly become strangers, new relationships are forgotten, and his medical triumphs are all but lost. The hospital is the only place he truly feels at home?and where he must rebuild his life as a patient, husband, father, and ultimately as a doctor. Inspired by a true story, the series seamlessly weaves Andrea's journey into procedural episodes, showcasing different clinical cases and the rich complexity of hospital life. Cast: Konstantinos Markoulakis, Dimitra Sigala, Vassiliki Troufakou.</desc>
   <desc lang="gre">Δραματική σειρά. Επεισόδιο 02: «Selfie». Ο Ανδρέας προκειμένου να θυμηθεί ακολουθεί μια θεραπεία του Απόστολου που στόχο έχει να ενεργοποιήσει ξανά τα ανενεργά σημεία του εγκεφάλου του. Όσο είναι ακόμα στο νοσοκομείο, γνωρίζει τον Τζέικ, έναν 17χρονο που λόγω ενός ισχαιμικού επεισοδίου νοσηλεύεται στο ίδιο δωμάτιο μ' αυτόν. Πεπεισμένος ότι κάτι κρύβει, τον προσεγγίζει ώστε να μάθει τι του συμβαίνει για να ενημερώσει τους γιατρούς και να τους βοηθήσει με αυτόν τον τρόπο να καταλάβουν τι έχει. Η Σοφία προσπαθεί να έρθει κοντά με τον Ανδρέα για να τον βοηθήσει να θυμηθεί, αλλά ξαφνιάζεται από το πόσο διαφορετικός είναι σε σχέση με το πως τον ήξερε η ίδια. Η Δανάη και ο Δημήτρης καλούνται να αντιμετωπίσουν μια κρίση στα επείγοντα που τους φέρνει στα όρια τους και τέλος, ο Μάρκος αγχωμένος από την παρουσία του Ανδρέα στο νοσοκομείο, προσπαθεί να πείσει την Άννα ότι η καλύτερη λύση για τον Ανδρέα είναι να παραιτηθεί και να πάρει μια πολύ καλή αναπηρική σύνταξη. Πρωταγωνιστούν: Κωνσταντίνος Μαρκουλάκης, Δήμητρα Σιγάλα, Βασιλική Τρουφάκου. Στο ρόλο του Τζέικ ο Γιώργος Κακακιός. Απόδοση σεναρίου: Παναγιώτης Ιωσηφέλης. Σκηνοθεσία: Γιώργος Παπαβασιλείου. Εκτέλεση Παραγωγής: Green Pixel. Based on a Format Created by Francesco Arlanch and Viola Rispoli'. 'Format licensed by Sony Pictures Television'. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
 <programme start="20231003001500 +0300" stop="20231003020000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -538,7 +520,7 @@
 <programme start="20231003020000 +0300" stop="20231003043000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] Gia Panta</title>
   <title lang="gre">[K12] Για Πάντα</title>
-  <desc lang="eng">Greek movie.</desc>
+  <desc lang="eng">Greek movie. Cast: Giannis Tsimitselis, Katerina Geronikolou.</desc>
   <desc lang="gre">Αισθηματικό δράμα ελληνικής παραγωγής 2020 [Το πρόγραμμα έχει σκηνές με σεξ και απρεπή εκφορά λόγου]. O Πέτρος είναι ένας 35χρονος επιτυχημένος σεφ και συλλέκτης βινυλίων που ψάχνει τον εαυτό του σε εφήμερες σχέσεις και νυχτερινές εξορμήσεις. Η Ζωή είναι μία ρομαντική κοπέλα που σχεδιάζει και ράβει παιδικά κοστούμια και ενδιαφέρεται για μια σταθερή σχέση. Οι δύο κόσμοι τους θα τεθούν υπό αμφισβήτηση όταν θα συναντηθούν τυχαία σε ένα βιβλιοπωλείο στο κέντρο της Αθήνας. Ωστόσο ένας δυνατός έρωτας θα γεννηθεί και θα επηρεάσει τη ζωή τους. Για πάντα! Ηθοποιοί: Γιάννης Τσιμιτσέλης, Κατερίνα Γερονικολού, Όλγα Δαμάνη, Ευγενία Σαμαρά, Γιώργος Αρμένης, Αλέξανδρος Αντωνόπουλος, Υρώ Λούπη, Θανάσης Παπαθανασίου, Βασιλική Ανδρίτσου. Σκηνοθεσία: Γιάννης Παπαδάκος. Σενάριο: Τσάγαν Ιρμάκ, Γιάννης Τσιμιτσέλης (διασκευή). Διάρκεια: 103'.</desc>
 </programme>
 <programme start="20231003043000 +0300" stop="20231003051500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -550,7 +532,7 @@
 <programme start="20231003051500 +0300" stop="20231003061500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari (R)</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι (Ε)</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231003061500 +0300" stop="20231003064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -610,7 +592,7 @@
 <programme start="20231003174500 +0300" stop="20231003185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231003185000 +0300" stop="20231003200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -634,7 +616,7 @@
 <programme start="20231003224000 +0300" stop="20231004001500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] O Giatros</title>
   <title lang="gre">[K8] Ο Γιατρός</title>
-  <desc lang="eng">Greek series.</desc>
+  <desc lang="eng">Greek series. Dr. Andreas Vrettos, a brilliant Head of Internal Medicine, has his life turned upside down after a traumatic brain injury. He survives but loses memory of the last twelve years of his life. Without his memories, Andrea awakens into an unfamiliar world where his loved ones have suddenly become strangers, new relationships are forgotten, and his medical triumphs are all but lost. The hospital is the only place he truly feels at home?and where he must rebuild his life as a patient, husband, father, and ultimately as a doctor. Inspired by a true story, the series seamlessly weaves Andrea's journey into procedural episodes, showcasing different clinical cases and the rich complexity of hospital life. Cast: Konstantinos Markoulakis, Dimitra Sigala, Vassiliki Troufakou.</desc>
   <desc lang="gre">Δραματική σειρά. Επεισόδιο  03: «Τίποτα προσωπικό». Ο Ανδρέας επιστρέφει στο νοσοκομείο παρά τις αντιδράσεις του Μάρκου και της Άννας αλλά τα καθήκοντά του είναι πολύ περιορισμένα: απαγορεύεται να μιλάει με τους ασθενείς και να κάνει οποιαδήποτε διάγνωση. Η Σοφία αναλαμβάνει να έχει τον Αντρέα από κοντά προκειμένου να μην εκθέσει το νοσοκομείο κάνοντας κάποιο λάθος, πράγμα που ενώ την χαροποιεί, την ίδια στιγμή την μπερδεύει, καθώς για πρώτη φορά είναι αυτή που καλείτε να πάρει τις αποφάσεις και ο Ανδρέας να την υπακούσει. Ο Λεωνίδας και η Δανάη αναλαμβάνουν έναν ηλικιωμένο κύριο, τον Βίκτωρα, του οποίου η περίπτωση θα τους βγάλει έναν άλλο εαυτό και θα τους κάνει να εκτιμήσουν περισσότερο την κάθε στιγμή της ζωής τους. Τέλος ο Ανδρέας αποφασίζει να μιλήσει ανοιχτά στην Άννα για όσα νιώθει και πάει από το σπίτι της. Εκεί όμως τον περιμένει μια δυσάρεστη έκπληξη καθώς η Άννα δεν είναι μόνη της. Πρωταγωνιστούν: Κωνσταντίνος Μαρκουλάκης, Δήμητρα Σιγάλα, Βασιλική Τρουφάκου. Στο ρόλο του Βίκτωρα ο Τάσος Χαλκιάς. Στο ρόλο της Βάνας η Ζωή Ρηγοπούλου. Στο ρόλο του Αλέξανδρου ο Νίκος Παπαδομιχελάκης. Στο ρόλο της Μάρθας η Χρύσα Βακάλη. Στο ρόλο του Στέφανου ο Παναγιώτης Μαργέτης. Απόδοση σεναρίου: Παναγιώτης Ιωσηφέλης. Σκηνοθεσία: Γιώργος Παπαβασιλείου. Εκτέλεση Παραγωγής: Green Pixel. Based on a Format Created by Francesco Arlanch and Viola Rispoli'. 'Format licensed by Sony Pictures Television'. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων για άτομα με προβλήματα ακοής [CC].</desc>
 </programme>
 <programme start="20231004001500 +0300" stop="20231004014500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -646,7 +628,7 @@
 <programme start="20231004014500 +0300" stop="20231004033000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K16] Arkansas</title>
   <title lang="gre">[K16] Ο Βαρώνος Του Αρκάνσας (Arkansas)</title>
-  <desc lang="eng">Foreign movie.</desc>
+  <desc lang="eng">Foreign movie, crime, thriller. Cast: Liam Hemsworth, Jacob Zachar, Patrick Muldoon.</desc>
   <desc lang="gre">Θρίλερ αμερικανικής παραγωγής 2020 [Το πρόγραμμα περιέχει σκηνές με απρεπή εκφορά λόγου, χρήση ναρκωτικών κι άλλων εξαρτησιογόνων ουσιών και βία]. O Κάιλ και ο Σουίν ζουν και εργάζονται σύμφωνα με τους κανόνες που θέτει ο βαρώνος των ναρκωτικών της πολιτείας του Αρκάνσας, με το όνομα Φρογκ, τον οποίο όμως δεν έχουν ποτέ συναντήσει. Όταν όμως μια συμφωνία θα πάει στραβά, οι συνέπειες θα είναι θανάσιμες. Ηθοποιοί: Λίαμ Χέμσγουορθ, Βινς Βον, Τζον Μάλκοβιτς, Κλαρκ Ντιούκ. Σκηνοθεσία: Κλαρκ Ντιούκ. Σενάριο: Κλαρκ Ντιούκ, Άντριου Μπούνκρονγκ (βασισμένο στο μυθιστόρημα του Τζον Μπράντον). Διάρκεια: 86' .</desc>
 </programme>
 <programme start="20231004033000 +0300" stop="20231004043000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -664,7 +646,7 @@
 <programme start="20231004051500 +0300" stop="20231004061500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari (R)</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι (Ε)</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231004061500 +0300" stop="20231004064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -724,7 +706,7 @@
 <programme start="20231004174500 +0300" stop="20231004185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231004185000 +0300" stop="20231004200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -748,13 +730,13 @@
 <programme start="20231004224000 +0300" stop="20231005001500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] To Proxenio Tis Ioulias</title>
   <title lang="gre">[K12] Το Προξενιό Της Ιουλίας</title>
-  <desc lang="eng">Greek series.</desc>
+  <desc lang="eng">Greek series. A crime triggers the beginning of the story and a crime closes her, with the heroine enduring a fate that seems like a heavy curse upon herself and her family. Is she innocent or guilty? And if they are innocent, who is the perpetrator and who is the victim? Obsessions and prejudices, infidelities, betrayals, loves, but also sick souls, operate under the silence of a Greek province in the 1950s and define the framework of action of our heroes. Actors: Meletis Elias, Anna Masxa, Adam Bousdoukos, Pegy Trikalioti, Dimitris Alexandris, Evgenia Ksigorou, Dimitris Serfas, Xristina Maksouri etc.etc.</desc>
   <desc lang="gre">Πρεμιέρα. Δραματική σειρά εποχής, ελληνικής παραγωγής 2023 - 2024 [Το πρόγραμμα περιέχει σκηνές σεξ, βίας και χρήσης ναρκωτικών και άλλων εξαρτησιογόνων ουσιών]. Επεισόδιο 1: Τύρναβος, 1959. Δυο νέα παιδιά, ο Γρηγόρης Ραζίνης και η Ιουλία Σκούταρη είναι ερωτευμένοι. Κρατάνε, όμως, τον έρωτα τους κρυφό, γιατί ανάμεσα στις οικογένειες τους, υπάρχει μια μεγάλη έχθρα, που ξεκίνησε όταν ο παππούς του Γρηγόρη, καταπάτησε και έκλεψε τα βοσκοτόπια του παππού της Ιουλίας. Η προδοσία μιας φίλης και ένα συμβόλαιο από το παρελθόν που αποκαλύπτει στον πατέρα της Ιουλίας ένας ηλικιωμένος συμβολαιογράφος λίγο πριν πεθάνει, έρχεται να ανατρέψει όλα τα δεδομένα και να δοκιμάσει ακόμα περισσότερο την σχέση του ζευγαριού. Με φόντο τον γάμο της ανιψιάς του διοικητή χωροφυλακής της περιοχής Στασινόπουλου, που γίνεται εκείνες τις ημέρες στον Τύρναβο, λάθη και πάθη απ' το παρελθόν θα έρθουν στο φως, αποκαλύπτοντας σχέσεις που κανείς δεν θέλει να θυμάται. Ενώ η ανάγκη του πατέρα να λύσει την διαμάχη με τρόπο ωφέλιμο και για τις δύο πλευρές, δεν θα φέρει το αποτέλεσμα που επιθυμούν. Η παλιά έχθρα, θα βαφτεί με αίμα... Παίζουν: Μελέτης Ηλίας, Άννα Μάσχα, Πέγκυ Τρικαλιώτη, Δημήτρης Αλεξανδρής, Ελισάβετ Μουτάφη, Γιάννος Περλέγκας, Χριστίνα Μαξούρη, Βασίλης Κουκαλάνι, Ευγενία Ξυγκόρου, Δημήτρης Σέρφας, Σίσσυ Τουμάση, Τάσος Λέκκας, Μελίνα Λεφαντζή, Δημήτρης Αριανούτσος, Χριστίνα Μαθιουλάκη, Δημήτρης Γεωργιάδης, Ευτυχία Μελή, Θοδωρής Σκυφτούλης, Ηλίας Βαλάσης, Αλέξανδρος Σκουρλέτης, Λιλλύ Μελεμέ, Γεωργία Συφιανού, Δημήτρης Γκουτζαμάνης. Και για πρώτη φορά σε ελληνική σειρά, ο Έλληνας πρωταγωνιστής του Φατίχ Ακίν, Αδάμ Μπουσδούκος. Σκηνοθεσία Νίκος Κρητικός. Σενάριο Νίκος Απειρανθίτης. Παραγωγή: Primavisione. Εμπνευσμένη από το ομότιτλο μυθιστόρημα του Γιώργου Πολίτη.</desc>
 </programme>
 <programme start="20231005001500 +0300" stop="20231005030000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] The ?ourne ?dentity</title>
   <title lang="gre">[K12] Χωρίς Tαυτότητα (The Βourne Ιdentity)</title>
-  <desc lang="eng">Foreign movie.</desc>
+  <desc lang="eng">Foreign movie, action, mystery, thriller. Cast: Matt Damon, Franka Potente, Chris Cooper.</desc>
   <desc lang="gre">Περιπέτεια αμερικανικής, κινεζικής και τσέχικης παραγωγής 2002 [Το πρόγραμμα περιέχει σκηνές με απρεπή εκφορά λόγου και βίας]. Όταν ένας άντρας ανασύρεται από τη θάλασσα της Μεσογείου ακόμα ζωντανός, συνειδητοποιεί μόλις συνέλθει ότι δεν θυμάται τίποτα, ούτε το όνομά  του. Το μόνο στοιχείο που διαθέτει είναι ο αριθμός ενός τραπεζικού λογαριασμού, ο οποίος θα τον οδηγήσει στη Ζυρίχη και μετέπειτα στο Παρίσι, ενώ θα του αποκαλύψει ένα όνομα: Τζέισον Μπορν. Προσπαθώντας να διαφύγει από άγνωστους διώκτες, θα συναντήσει τη Μαρί, μια μυστηριώδη και όμορφη κοπέλα που θα τον ακολουθήσει. Ηθοποιοί: Ματ Ντέιμον, Φράνκα Ποτέντε, Κρις Κούπερ, Κλάιβ Όουεν, Μπράιαν Κοξ. Σκηνοθεσία: Νταγκ Λάιμαν. Σενάριο: Τόνι Γκίλροϊ, Γουίλιαμ Μπλέικ Χέρον, Ρόμπερτ Λούντλουμ. Διάρκεια: 112'.</desc>
 </programme>
 <programme start="20231005030000 +0300" stop="20231005043000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -772,7 +754,7 @@
 <programme start="20231005051500 +0300" stop="20231005061500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari (R)</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι (Ε)</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231005061500 +0300" stop="20231005064500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -832,7 +814,7 @@
 <programme start="20231005174500 +0300" stop="20231005185000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K8] To Pio Megalo Pazari</title>
   <title lang="gre">[K8] Το Πιο Μεγάλο Παζάρι</title>
-  <desc lang="eng">Tv show.</desc>
+  <desc lang="eng">? daily gameshow in which contestants compete for cash and prizes through entertaining games and challenges. Hosted by Elias Vrettos.</desc>
   <desc lang="gre">Ο Ηλίας Βρεττός παρουσιάζει κάθε απόγευμα στις 17:45 To Πιο Μεγάλο Παζάρι στον Alpha! Το θρυλικό τηλεπαιχνίδι, που έχει προβληθεί σε πάνω από 24 χώρες παγκοσμίως και έχει μοιράσει τεράστια δώρα σε εκατοντάδες τυχερούς συμμετέχοντες. Μαζί του ο Λευτέρης Μητσόπουλος. Οι συμμετέχοντες επιλέγονται ανάμεσα από το κοινό και μέσα από διασκεδαστικές και πρωτότυπες δοκιμασίες, παίζοντας έξυπνα και ρισκάροντας, πρέπει να αποφύγουν το ΖΟΝΚ και να κάνουν το καλύτερο παζάρι που θα τους χαρίσει πλούσια δώρα και δυνατές συγκινήσεις.</desc>
 </programme>
 <programme start="20231005185000 +0300" stop="20231005200000 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -850,7 +832,7 @@
 <programme start="20231005210000 +0300" stop="20231005224000 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] To Proxenio Tis Ioulias</title>
   <title lang="gre">[K12] Το Προξενιό Της Ιουλίας</title>
-  <desc lang="eng">Greek series.</desc>
+  <desc lang="eng">Greek series. A crime triggers the beginning of the story and a crime closes her, with the heroine enduring a fate that seems like a heavy curse upon herself and her family. Is she innocent or guilty? And if they are innocent, who is the perpetrator and who is the victim? Obsessions and prejudices, infidelities, betrayals, loves, but also sick souls, operate under the silence of a Greek province in the 1950s and define the framework of action of our heroes. Actors: Meletis Elias, Anna Masxa, Adam Bousdoukos, Pegy Trikalioti, Dimitris Alexandris, Evgenia Ksigorou, Dimitris Serfas, Xristina Maksouri etc.etc.</desc>
   <desc lang="gre">Δραματική σειρά εποχής, ελληνικής παραγωγής 2023 - 2024 [Το πρόγραμμα περιέχει σκηνές σεξ, βίας και χρήσης ναρκωτικών και άλλων εξαρτησιογόνων ουσιών]. Επεισόδιο 2: Καλοκαίρι 1959. Η είδηση μιας δολοφονίας αναστατώνει την ήσυχη κοινωνία του Τυρνάβου. Ο διοικητής χωροφυλακής Κωστής Στασινόπουλος, αρχίζει μια σειρά από ανακρίσεις, μέσα σε έναν κύκλο ανθρώπων που έχει στο κέντρο του το παράνομο ζευγάρι. Ανακαλύπτοντας πολύ σύντομα την ερωτική σχέση του Γρηγόρη με την Ιουλία, η οποία εμποδίζει την αποκάλυψη στοιχείων της δολοφονίας, ο Στασινόπουλος διευρύνει τον αριθμό των υπόπτων και εκμεταλλεύεται κάθε δυνατή πληροφορία από το παρελθόν, προκειμένου να εξηγήσει τι συνέβη. Ο φόνος, όμως, φέρνει στον Τύρναβο και τον κουμπάρο του Στασινόπουλου, Γιωργίκη Προβιό, μεγαλογαιοκτήμονα της Λάρισας, που έχει μαγευτεί από  την πανέμορφη Ιουλία. Αλλά οπλίζει και το χέρι του Ρήγα, του οξύθυμου αδελφού της, που αποφασίζει να πάρει το νόμο στα χέρια του... Παίζουν: Μελέτης Ηλίας, Άννα Μάσχα, Πέγκυ Τρικαλιώτη, Δημήτρης Αλεξανδρής, Ελισάβετ Μουτάφη, Γιάννος Περλέγκας, Χριστίνα Μαξούρη, Βασίλης Κουκαλάνι, Ευγενία Ξυγκόρου, Δημήτρης Σέρφας, Σίσσυ Τουμάση, Τάσος Λέκκας, Μελίνα Λεφαντζή, Δημήτρης Αριανούτσος, Χριστίνα Μαθιουλάκη, Δημήτρης Γεωργιάδης, Ευτυχία Μελή, Θοδωρής Σκυφτούλης, Ηλίας Βαλάσης, Αλέξανδρος Σκουρλέτης, Λιλλύ Μελεμέ, Γεωργία Συφιανού, Δημήτρης Γκουτζαμάνης. Και για πρώτη φορά σε ελληνική σειρά, ο Έλληνας πρωταγωνιστής του Φατίχ Ακίν, Αδάμ Μπουσδούκος. Σκηνοθεσία Νίκος Κρητικός. Σενάριο Νίκος Απειρανθίτης. Παραγωγή: Primavisione. Εμπνευσμένη από το ομότιτλο μυθιστόρημα του Γιώργου Πολίτη.</desc>
 </programme>
 <programme start="20231005224000 +0300" stop="20231006001500 +0300" channel="376f6d09778795dc2d75b1332449949e">
@@ -862,19 +844,14 @@
 <programme start="20231006001500 +0300" stop="20231006014500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] Protagonistes, III</title>
   <title lang="gre">[K12] Πρωταγωνιστές, ΙΙΙ</title>
-  <desc lang="eng">Protagonistes.</desc>
+  <desc lang="eng">Stauros Theodorakis and his 'Protagonistes' are coming back on Greek television. With reports and stories that move us to think differently. With passion for reality. And with the knowledge that things are not always as they seem to be.</desc>
   <desc lang="gre">Πρεμιέρα. Μετά από δέκα χρόνια προβολών οι «Πρωταγωνιστές» έχουν κατακτήσει επάξια τον τίτλο της σημαντικότερης εκπομπής έρευνας στην Ελλάδα. Ιστορίες και εξομολογήσεις ανθρώπων που δεν πρέπει να χαθούν. Εικόνες και ήχοι που συλλέγονται με προσοχή για να αποτελέσουν τον καμβά ενός ντοκιμαντέρ που μιλάει στο νου και στην καρδιά του θεατή. Πρωτότυπα θέματα έξω από την τετριμμένη οπτική της τρέχουσας ειδησεογραφίας. Ένα αέναο κυνήγι εκπλήξεων και αληθινών Πρωταγωνιστών.</desc>
 </programme>
 <programme start="20231006014500 +0300" stop="20231006034500 +0300" channel="376f6d09778795dc2d75b1332449949e">
   <title lang="eng">[K12] Psycho</title>
   <title lang="gre">[K12] Ψυχώ (Psycho)</title>
-  <desc lang="eng">Foreign movie.</desc>
+  <desc lang="eng">Foreign movie, horror, mystery, thriller. Cast: Vince Vaughn, Anne Heche, Julianne Moore.</desc>
   <desc lang="gre">Ταινία τρόμου αμερικανικής παραγωγής 1960 [Το πρόγραμμα περιέχει σκηνές βίας]. Αφού η γραμματέας Μάριον φεύγει από τη δουλειά της κλέβοντας 40.000 δολάρια, μπαίνει στο απόκοσμο Bates Motel, το οποίο διευθύνει ο ντροπαλός, δύστροπος Νόρμαν και η δεσποτική ηλικιωμένη μητέρα του. Κατά τη διάρκεια του ντουζ της, η Μαριόν μαχαιρώνεται θανάσιμα από τη μητέρα του Νόρμαν και εκείνος φροντίζει να «ξεφορτωθεί» το σώμα της. Εν τω μεταξύ, ο φίλος της Μαριόν και η αδερφή της ξεκινούν μια αγωνιώδη αναζήτηση, που τελικά τους οδηγεί στο σπίτι των Bates. Εκεί, η αλήθεια, με την οποία θα έρθουν αντιμέτωποι, ξεπερνά κάθε φαντασία. Ηθοποιοί: Άντονι Πέρκινς, Τζάνετ Λι, Βέρα Μάιλς, Τζον Γκάβιν, Μάρτιν Μπάλσαμ. Σκηνοθεσία: Άλφρεντ Χίτσκοκ. Σενάριο: Τζόζεφ Στέφανο, Ρόμπερτ Μπλοχ. Διάρκεια: 104'.</desc>
-</programme>
-<programme start="20230928170000 +0300" stop="20230928183000 +0300" channel="ce63ef905cc6b07a8a5f6886ae9eda7b">
-  <title>Σε Ξένα Χέρια (E)</title>
-  <sub-title>Ψυχαγωγία (Ελληνική σειρά) Επεισόδια 27ο &amp; 28ο</sub-title>
-  <desc>Ο Μάνος καλείται να πάρει την τελική απόφαση για το  αν θα παντρευτεί τελικά τη Μαριτίνα. Η Τόνια  παρακαλάει τον Φλοριάν να της πει πού έχει το παιδί  κι εκείνος αρνείται κάθε ανάμειξη. Η Πελαγία  αποφασίζει να "αλλάξει" μαμά.     Πρωτότυπη ιδέα-σενάριο: Γιώργος Κρητικός  Σεναριογράφοι: Αναστάσης Μήδας, Λεωνίδας Μαράκης, Γεωργία Μαυρουδάκη, Ανδρέας Δαίδαλος, Κατερίνα Πεσταματζόγλου Σκηνοθεσία: Στέφανος Μπλάτσος  Διεύθυνση φωτογραφίας:, Νίκος Κανέλλος,  Αντρέας Γούλος  Σκηνογραφία: Σοφία Ζούμπερη   Ενδυματολόγος: Νινέτ Ζαχαροπούλου   Επιμέλεια: Ντίνα Κάσσου  Παραγωγή: Γιάννης Καραγιάννης/J. K. Productions  Παίζουν: Γιάννης Μπέζος (Χαράλαμπος Φεγκούδης), Γεράσιμος Σκιαδαρέσης (Τζόρνταν Πιπερόπουλος), Ρένια Λουιζίδου (Σούλα Μαυρομάτη), Βάσω Λασκαράκη (Τόνια Μαυρομάτη), Χριστίνα Αλεξανιάν (Διώνη Μαστραπά-Φεγκούδη), Κυριάκος Σαλής (Μάνος Φεγκούδης), Σίσυ Τουμάση (Μαριτίνα Πιπεροπούλου), Αλεξάνδρα Παντελάκη (Μάρω Αχτύπη), Τάσος Γιαννόπουλος (Λουδοβίκος Κοντολαίμης), Λεωνίδας Μαράκης (παπα-Χρύσανθος Αχτύπης), Ελεάννα Στραβοδήμου (Πελαγία Μαυρομάτη), Τάσος Κονταράτος (Πάρης Φεγκούδης, αδελφός του Μάνου), Μαρία Μπαγανά (Ντάντω Μαστραπά), Νίκος Σταυρακούδης (Παντελής), Κωνσταντίνα Αλεξανδράτου (Έμιλυ), Σωσώ Χατζημανώλη (Τραβιάτα), Αθηνά Σακαλή (Ντάνι), Ήρα Ρόκου (Σαλώμη), Χρήστος Κοντογεώργης (Φλοριάν), Παναγιώτης Καρμάτης (Στέλιος), Λαμπρινή Σκρέκα (Jane).</desc>
 </programme>
 <programme start="20230928183000 +0300" stop="20230928201500 +0300" channel="ce63ef905cc6b07a8a5f6886ae9eda7b">
   <title>Δυο Ζωές (E)</title>
@@ -1559,24 +1536,6 @@
   <title>Σε Ξένα Χέρια (E)</title>
   <sub-title>Ψυχαγωγία (Ελληνική σειρά)</sub-title>
   <desc>Πρωτότυπη ιδέα-σενάριο: Γιώργος Κρητικός  Σεναριογράφοι: Αναστάσης Μήδας, Λεωνίδας Μαράκης, Γεωργία Μαυρουδάκη, Ανδρέας Δαίδαλος, Κατερίνα Πεσταματζόγλου Σκηνοθεσία: Στέφανος Μπλάτσος  Διεύθυνση φωτογραφίας:, Νίκος Κανέλλος,  Αντρέας Γούλος  Σκηνογραφία: Σοφία Ζούμπερη   Ενδυματολόγος: Νινέτ Ζαχαροπούλου   Επιμέλεια: Ντίνα Κάσσου  Παραγωγή: Γιάννης Καραγιάννης/J. K. Productions  Παίζουν: Γιάννης Μπέζος (Χαράλαμπος Φεγκούδης), Γεράσιμος Σκιαδαρέσης (Τζόρνταν Πιπερόπουλος), Ρένια Λουιζίδου (Σούλα Μαυρομάτη), Βάσω Λασκαράκη (Τόνια Μαυρομάτη), Χριστίνα Αλεξανιάν (Διώνη Μαστραπά-Φεγκούδη), Κυριάκος Σαλής (Μάνος Φεγκούδης), Σίσυ Τουμάση (Μαριτίνα Πιπεροπούλου), Αλεξάνδρα Παντελάκη (Μάρω Αχτύπη), Τάσος Γιαννόπουλος (Λουδοβίκος Κοντολαίμης), Λεωνίδας Μαράκης (παπα-Χρύσανθος Αχτύπης), Ελεάννα Στραβοδήμου (Πελαγία Μαυρομάτη), Τάσος Κονταράτος (Πάρης Φεγκούδης, αδελφός του Μάνου), Μαρία Μπαγανά (Ντάντω Μαστραπά), Νίκος Σταυρακούδης (Παντελής), Κωνσταντίνα Αλεξανδράτου (Έμιλυ), Σωσώ Χατζημανώλη (Τραβιάτα), Αθηνά Σακαλή (Ντάνι), Ήρα Ρόκου (Σαλώμη), Χρήστος Κοντογεώργης (Φλοριάν), Παναγιώτης Καρμάτης (Στέλιος), Λαμπρινή Σκρέκα (Jane).</desc>
-</programme>
-<programme start="20230928170000 +0300" stop="20230928180000 +0300" channel="c28a4913996defecd6b0ab14dd6dd2c1">
-  <title lang="eng">MAK TV</title>
-  <title lang="gre">[K8] Δεληγιάννειο Παρθεναγωγείο</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Κωμωδία, ελληνικής παραγωγής 2007-2008. Λίγο πριν την έναρξη του Β' Παγκοσμίου Πολέμου. Ο Μίμης Μεταξάς είναι διευθυντής ενός πρότυπου οικοτροφείου θηλέων για κορίτσια καλών οικογενειών απ' όλες τις περιοχές τις Ελλάδας. Παρακολουθούμε τις επιμέρους ιστορίες των κοριτσιών αλλά και τον ανεκπλήρωτο έρωτα του Μίμη για τη νέα και όμορφη εξαδέλφη της γυναίκας του, η οποία έρχεται ως καθηγήτρια στο παρθεναγωγείο. Πρόκειται για μία γυναίκα που με τα πιστεύω της και την στάση ζωής της θα ταράξει τα νερά... Η σειρά φιλοδοξεί με χιουμοριστικό και συγκινητικό τρόπο να αναπλάσει μία σελίδα της ελληνικής ιστορίας, μέσα από το μικροσκόπιο του παρθεναγωγείου που περιλαμβάνει τους καθηγητές, τις γυναίκες τους, τους νεαρούς γιους, τις μαθήτριες...μία «μικρή κοινωνία», μικρογραφία του κόσμου της εποχής του τότε αλλά και του σήμερα γιατί τα πάθη των ανθρώπων και οι αξίες της ζωής είναι διαχρονικά. Παίζουν: Μάνος Βακούσης, Μαργαρίτα Βαρλάμου, Στέλιος Γούτης, Λεωνίδας Καλφαγιάννης, Άννα Κουρή, Μαρία Κωνσταντάρου, Περικλής Μοσχολιδάκης, Κάκια Παναγιώτου, Στέλιο Πετράκης, Μαίρη Σταυρακέλη, Γιάννα Σταυράκη, Σταμάτης Τζελέπης. Μαθήτριες: Ελένη Αποστολοπούλου, Ιωάννα Ασημακοπούλου, Μαρία Γαλάτη, Βίκυ Κουμούτσου, Ελένη Λεβάκη, Δέσποινα Μπουγιατιώτη, Αθηνά Οικονομάκου. Σενάριο: Χάρης Ρώμας - Άννα Χατζησοφιά. Σκηνοθεσία: Χρήστος Παληγιαννόπουλος.</desc>
-</programme>
-<programme start="20230928180000 +0300" stop="20230928190000 +0300" channel="c28a4913996defecd6b0ab14dd6dd2c1">
-  <title lang="eng">MAK TV</title>
-  <title lang="gre">[K8] Εγκλήματα</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Κωμωδία καταστάσεων, ελληνικής παραγωγής. Η γυναίκα του Αχιλλέα, Φλώρα, είναι απογοητευμένη από τον γάμο της και θυμάται με νοσταλγία τον παιδικό της έρωτα, Αλέκο. Η μοίρα τα φέρνει έτσι και τελικά ξανασμίγουν παράνομα. Η γυναίκα του Αλέκου, όμως, η Σωσώ καταλαβαίνει την παράνομη σχέση και προσπαθεί να εκδικηθεί τον άντρα της για την απιστία του. Μια σειρά απίστευτων ‘'εγκλημάτων'' εκτυλίσσεται με θύματα τους ήρωές μας. Πρωταγωνιστές: Χατζηπαναγιώτης Χρήστος, Μανέ Ηρώ, Καβογιάννη Μαρία, Κόκλας Κώστας. Σενάριο: Παπαπέτρου Λευτέρης. Σκηνοθεσία: Τέμπος Αντώνης.</desc>
-</programme>
-<programme start="20230928190000 +0300" stop="20230928200000 +0300" channel="c28a4913996defecd6b0ab14dd6dd2c1">
-  <title lang="eng">MAK TV</title>
-  <title lang="gre">[K8] Άγριες Μέλισσες</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Δραματική σειρά εποχής, ελληνικής παραγωγής 2019-2020. Επεισόδιο 109. Ο Δούκας καταφέρνει για ακόμα μια φορά να επικρατήσει στην μάχη για την βιομηχανική ζώνη καθώς το δικαστήριο αποφασίζει υπέρ της απαλλοτρίωσης και η Ελένη χάνει και το σπίτι και τα χωράφια της. Ο Μιλτιάδης με τον Νικηφόρο κάνουν αγώνα δρόμου για να σταματήσουν τα σχέδια του Δούκα με τα στοιχεία που έχουνε στα χέρια τους ενώ η Ελένη δέχεται ένα ακόμα πλήγμα όταν οι αγρότες αποφασίζουν να διαλύσουν τον συνεταιρισμό τους. Παράλληλα η Θεοδοσία συνεχίζει να τραβάει το σκοινί και να μη δίνει το διαζύγιο στον Λάμπρο ενώ η Ανέτ ανακοινώνει στον Δούκα πως θα επιστρέψει στο Παρίσι αρκεί να πείσει τον Μελέτη να έρθει μαζί της και εκεί να του πει την αλήθεια. Την ίδια στιγμή η Πηνελόπη και ο Μελέτης αποφασίζουν να κλέψουνε χρήματα απ' τον Δούκα και να το σκάσουνε. Θα τα καταφέρει ο Μελέτης ή θα πιαστεί σαν ποντικός; Οι φουρτούνες για την Ελένη δεν λένε να σταματήσουνε όταν μια δικαστική ειδοποίηση θα την φέρει μπροστά στον χειρότερο φόβο της ενώ ο Ιορδάνης έρχεται με μια πρόταση στην Δρόσω και στην Ελένη που θα δώσει το τελειωτικό χτύπημα στην σχέση των τριών αδερφών... Πρωταγωνιστούν: Μαρία Κίτσου, Έλλη Τρίγγου, Κατερίνα Διδασκάλου, Γιάννης Στάνκογλου, Λεωνίδας Κακούρης, Γιώργος Γάλλος, Παύλος Ορκόπουλος, Δανάη Μιχαλάκη, Θεοφανία Παπαθωμά, Γιώργος Σουξές, Αλίκη Αλεξανδράκη, Γιώργος Μακρής, Χριστίνα Χειλά Φαμέλη, Δημήτρης Γκοτσόπουλος, Αναστάσης Ροϊλός, Γιάννης Κουκουράκης, Χρήστος Πλαΐνης, Κωνσταντίνος Δανίκας, Αλέξανδρος Καλπακίδης, Γιώργος Γεροντιδάκης, Μαρία Πετεβή, Θανάσης Κουρλαμπάς, Αμαλία Καβάλη, Κωστής Σαββιδάκης, Βαγγέλης Αλεξανδρής, Δανάη Λουκάκη, Ιωάννης Αθανασόπουλος, Μαρία Αντουλινάκη, Ελένη Καρακάση, Γιώργος Ηλιόπουλος, Γρηγόρης Γιαννόπουλος. Στο ρόλο της Ανέτ Ρουσσώ η Κάτια Δανδουλάκη. Guest Star ο Ανδρέας Κωνσταντίνου. Σκηνοθεσία σειράς: Λευτέρης Χαρίτος. Σκηνοθέτες: Σπύρος Μιχαλόπουλος, Σταμάτης Πατρώνης. Σενάριο: Μελίνα Τσαμπάνη. Διεύθυνση Φωτογραφίας: Βαγγέλης Κατριτζιδάκης....</desc>
 </programme>
 <programme start="20230928200000 +0300" stop="20230928203000 +0300" channel="c28a4913996defecd6b0ab14dd6dd2c1">
   <title lang="eng">MAK TV</title>
@@ -2568,18 +2527,6 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Σειρά μυστήριου αμερικανικής παραγωγής του 2009. Ο Ρίτσαρντ Καστλ είναι ένας πολύ ελκυστικός συγγραφέας βιβλίων μυστηρίου. Τα έχει όλα: φήμη, φανατικούς αναγνώστες και φυσικά γυναίκες. Τα έχει όμως βαρεθεί. Η ντετέκτιβ Κειτ Μπεκετ καλεί τον Καστλ για βοήθεια, όταν εμφανίζεται ένας δολοφόνος ο οποίος σκηνοθετεί τα εγκλήματά του σύμφωνα με την περιγραφή που έχει κάνει ο συγγραφέας στα βιβλία του. Η ένταση μεταξύ του άνετου και χαλαρού στυλ του Ρίτσαρντ και της συντηρητικής και σχολαστικής προσέγγισης της ντετέκτιβ δεν αργεί να εκδηλωθεί, οδηγώντας τους σε επικίνδυνες συγκρούσεις και καυτές ρομαντικές στιγμές. Ο Ρίτσαρντ επιτέλους αισθάνεται και πάλι ζωντανός, και αναρωτιέται αν το οφείλει στην δράση ή στην όμορφη συνεργάτη του.... Παίζουν: Nathan Fillion, Stana Katic, Susan Sullivan, Ruben Santiago-Hudson, Molly Quinn,Jon Huertas, Tamala Jones, Seamus Dever, Penny Johnson Jerald, Toks Olagundoye. Παραγωγή: Andrew W. Marlowe [Το πρόγραμμα περιέχει απρεπή εκφορά λόγου σκηνές βίας, σεξ και χρήσης ουσιών].</desc>
 </programme>
-<programme start="20230928173000 +0300" stop="20230928184500 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
-  <title lang="eng">SKAI</title>
-  <title lang="gre">[K8] Η Μαμά Μου Μαγειρεύει Καλύτερα Από Τη Δική Σου</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ψυχαγωγική εκπομπή. Το νέο διασκεδαστικό παιχνίδι είναι στον ΣΚΑΪ για καθημερινές, μαγειρικές αναμετρήσεις, μεταξύ των πιο ευφάνταστων ζευγαριών. Ο Μάρκος Σεφερλής, στο ρόλο του οικοδεσπότη, βοηθά στις προετοιμασίες των συνταγών, δίνει συμβουλές και καθοδηγεί τα ζευγάρια, πάντα με «εργαλεία» το χιούμορ και τις αξεπέραστες ατάκες του. Ο Έκτορας Μποτρίνι, στο ρόλο του κριτή, δοκιμάζει και αποφασίζει ποιο είναι το καλύτερο πιάτο και συνεπώς, ποια ομάδα συνεχίζει να παίζει. 1.000 ευρώ κάθε μέρα, περιμένουν το νικητήριο ζευγάρι σε ένα μαγειρικό show γεμάτο γέλιο και νοστιμιά.</desc>
-</programme>
-<programme start="20230928184500 +0300" stop="20230928195000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
-  <title lang="eng">SKAI</title>
-  <title lang="gre">[K8] Ο Μονομάχος</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ψυχαγωγική εκπομπή. Το απόλυτο τηλεπαιχνίδι γνώσεων «Ο Μονομάχος» υπόσχεται δυναμικές, γνωστικές μονομαχίες. Με διάθεση για δυνατές αναμετρήσεις ο μοναδικός Χρήστος Φερεντίνος προκαλεί τους υποψήφιους μονομάχους να αντιμετωπίσουν 100 αντιπάλους και να διεκδικήσουν έως και 100.000 ευρώ! Ποιος θα καταφέρει να βγει αλώβητος από τη δοκιμασία; Μήπως κάποιος από τους αντιπάλους του θα ανατρέψει την πορεία του προς το μεγάλο χρηματικό έπαθλο; Ο «Μονομάχος» υπόσχεται καθημερινές αναμετρήσεις μέχρι τελικής πτώσεως!</desc>
-</programme>
 <programme start="20230928195000 +0300" stop="20230928210000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
   <title lang="gre">[K] Βραδινό Δελτίο Ειδήσεων</title>
@@ -2594,9 +2541,9 @@
 </programme>
 <programme start="20230928222000 +0300" stop="20230929002000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
-  <title lang="gre">[K16] Detective Knight: Redemption</title>
+  <title lang="gre">[K16] War</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ξένη ταινία. Είδος: Δράσης, θρίλερ. Έτος: 2022 [Το πρόγραμμα περιέχει σκηνές με βία]. Β' μέρος της τριλογίας (Christmas). Ο Τζέιμς Νάιτ βρίσκεται τώρα φυλακισμένος στη Νέα Υόρκη, περιμένοντας να δικαστεί για τη δολοφονία των δύο βασικών υπόπτων στον φόνο του συνεργάτη του. Ξαφνικά, ο Νάιτ γίνεται μάρτυρας μιας εξέγερσης φυλακισμένων, την οποία οργάνωσε ο Βομβιστής των Χριστουγέννων, ο αδυσώπητος αρχηγός μιας συμμορίας κακοποιών. Αν καταφέρει να εξουδετερώσει την επικίνδυνη συμμορία, θα μπορέσει να «καθαρίσει» το όνομά του και να επιστρέψει στη δουλειά. Όμως αυτή η αποστολή δεν θα είναι καθόλου εύκολη. Πρωταγωνιστούν: Μπρους Γουίλις, Κόρεϊ Λαρτζ, Μίτσελ Μπέικερ, Χάντερ Ντέιλι, κ.ά. Σκηνοθεσία: Έντουαρντ Ντρέικ. Σενάριο: Έντουαρντ Ντρέικ [Πρόγραμμα με υπότιτλους].</desc>
+  <desc lang="gre">Ξένη ταινία. Είδος: Δράσης. Έτος: 2007. Πριν από τρία χρόνια, ο Ρογκ, διαβόητος επαγγελματίας δολοφόνος, είχε σκοτώσει τον πράκτορα του FBI Τομ Λόουν και την οικογένειά του. Από τότε, η εκδίκηση έγινε εμμονή για τον Τζακ Κρόφορντ, πρώην συνάδελφο του Λόουν, που ορκίστηκε να κάνει ό,τι μπορεί για να εντοπίσει και να δολοφονήσει τον Ρογκ. Η επανεμφάνιση του Ρογκ στο Σαν Φρανσίσκο σηματοδοτεί και την έναρξη ενός πολέμου ανάμεσα στην ιαπωνική και την κινέζικη μαφία. Πρωταγωνιστούν: Τζετ Λι, Τζέισον Στέιθαμ, Ναντίν Βελάσκεθ, Λουίς Γκουζμάν, Ντέβον Αόκι, Ρίο Ισιμπάσι, κ.ά. Σκηνοθεσία: Φίλιπ Άτγουελ. Σενάριο: Λι Άντονι Σμιθ.</desc>
 </programme>
 <programme start="20230929002000 +0300" stop="20230929023000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
@@ -2760,17 +2707,17 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Tο κεντρικό δελτίο ειδήσεων του ΣΚΑΪ βγαίνει μπροστά στην ενημέρωση. Μπροστά στο ρεπορτάζ, με εγκυρότητα, μαχητικότητα και αστραπιαία αντανακλαστικά. Μπροστά στην ανάλυση, με αξιοπιστία, ουσία και θάρρος. Μπροστά στην τεχνολογία, με τις πιο σύγχρονες και καινοτόμες εφαρμογές. Με τον Γιάννη Παπαδόπουλο.</desc>
 </programme>
-<programme start="20230930210000 +0300" stop="20231001000000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
+<programme start="20230930210000 +0300" stop="20230930234500 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
   <title lang="gre">[K12] Οι Πανθέοι (Ε)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Ελληνική σειρά, μυθοπλασίας. Επεισόδιο 08. Ο Κίτσος και η Μάρμω έχουν αρχίσει να γνωρίζουν καλύτερα ο ένας τον άλλο μετά την πρωτοβουλία της Μάρμως να συναντηθούν στον Βασιλικό Κήπο. Ο Κίτσος, μετά από αυτό, θα αρχίσει να νιώθει πως αρχίζουν να δημιουργούνται πιο δυνατά αισθήματα γι' αυτόν προς τη Μάρμω. Σε μια προσπάθειά του να καταστείλει αυτά τα συναισθήματα και να αντισταθεί θα αναζητήσει τη συντροφιά της Πέλλας. Ο Στάθης θα γνωριστεί τυχαία με την Αλέκα χωρίς όμως να καταλάβει πως είναι η κόρη του πρώην αφεντικού του και του ανθρώπου που σκοπεύει να εκβιάσει. Ο Ισίδωρος, σε μια στιγμή απόγνωσης, θα ζητήσει από τη Μιρέλλα να τον φέρει σε επαφή με το πνεύμα της μητέρας του, Νένας... Επεισόδιο 09. Ο Ανδρέας φτάνει εσπευσμένα στο γραφείο του Μεταξά, μέσα στην άγρια νύχτα και βρίσκει τον άνθρωπο της ασφάλειας νεκρό. Ο Μεταξάς υποψιάζεται πως στόχος ήταν ο ίδιος και ζητάει από τον Ανδρέα να μεταφέρουν τον νεκρό άντρα στην κλινική του, να γίνει η νεκροψία χωρίς να το μάθει κανείς και να τον ενημερώσει για τα ευρήματα. Ο Κίτσος αποφασίζει να ξαναβρεθεί με τη Μάρμω, χρησιμοποιώντας την ίδια τακτική που χρησιμοποίησε και εκείνη. Στέλνει ένα μήνυμα και της ζητάει να τον βρει στο ξενοδοχείο της Νίνας. Η Μάρμω πηγαίνει και ο Κίτσος της προτείνει να παίξουν ένα παιχνίδι... «ανακάλυψης»! Ο Στάθης σίγουρος ότι αυτή τη φορά θα καταφέρει να εκβιάσει τον Βαλλίδη και να αποσπάσει τα λεφτά που θέλει, πηγαίνει και τον βρίσκει στο σπίτι του. Εκεί όμως τον περιμένει μια δυσάρεστη έκπληξη  [Πρόγραμμα με ειδικούς υπότιτλους].</desc>
 </programme>
-<programme start="20231001000000 +0300" stop="20231001020000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
+<programme start="20230930234500 +0300" stop="20231001020000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
-  <title lang="gre">[K16] Detective Knight: Redemption</title>
+  <title lang="gre">[K12] Οιωνός (Signs)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ξένη ταινία. Είδος: Δράσης, θρίλερ. Έτος: 2022 [Το πρόγραμμα περιέχει σκηνές με βία]. Β' μέρος της τριλογίας (Christmas). Ο Τζέιμς Νάιτ βρίσκεται τώρα φυλακισμένος στη Νέα Υόρκη, περιμένοντας να δικαστεί για τη δολοφονία των δύο βασικών υπόπτων στον φόνο του συνεργάτη του. Ξαφνικά, ο Νάιτ γίνεται μάρτυρας μιας εξέγερσης φυλακισμένων, την οποία οργάνωσε ο Βομβιστής των Χριστουγέννων, ο αδυσώπητος αρχηγός μιας συμμορίας κακοποιών. Αν καταφέρει να εξουδετερώσει την επικίνδυνη συμμορία, θα μπορέσει να «καθαρίσει» το όνομά του και να επιστρέψει στη δουλειά. Όμως αυτή η αποστολή δεν θα είναι καθόλου εύκολη. Πρωταγωνιστούν: Μπρους Γουίλις, Κόρεϊ Λαρτζ, Μίτσελ Μπέικερ, Χάντερ Ντέιλι, κ.ά. Σκηνοθεσία: Έντουαρντ Ντρέικ. Σενάριο: Έντουαρντ Ντρέικ [Πρόγραμμα με υπότιτλους].</desc>
+  <desc lang="gre">Ξένη ταινία. Είδος: Δραματική, μυστηρίου. Έτος: 2002. Μετά τον θάνατο της γυναίκας του σε τροχαίο, ένας πάστορας επιστρέφει στην αγροτική ζωή, στην επαρχία Μπακς της Πενσυλβάνια. Μαζί του έχει τα δυο μικρά παιδιά του καθώς και τον αδερφό του. Όταν τεράστιοι γεωμετρικοί σχηματισμοί, ακτίνας 150 μέτρων, εμφανίζονται μέσα στα χωράφια του προσπαθεί να βρει μια εξήγηση γι' αυτό το ανεξήγητο φαινόμενο και η πίστη του δοκιμάζεται. Πρωταγωνιστούν: Μελ Γκίμπσον, Χοακίν Φίνιξ, Άμπιγκεϊλ Μπρέσλιν, Ρόρι Κάλκιν, Μ.Νάιτ Σιάμαλαν, Άντζελα Εκερτ, Μέριτ Γουίβερ, Μάικλ Σοουγουόλτερ. Σκηνοθεσία / Σενάριο: Μ. Νάιτ Σιάμαλαν.</desc>
 </programme>
 <programme start="20231001020000 +0300" stop="20231001030000 +0300" channel="645fb71a6d2081a4686b853b45d6c1bb">
   <title lang="eng">SKAI</title>
@@ -3234,30 +3181,6 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Ψυχαγωγική εκπομπή. Το απόλυτο τηλεπαιχνίδι γνώσεων «Ο Μονομάχος» υπόσχεται δυναμικές, γνωστικές μονομαχίες. Με διάθεση για δυνατές αναμετρήσεις ο μοναδικός Χρήστος Φερεντίνος προκαλεί τους υποψήφιους μονομάχους να αντιμετωπίσουν 100 αντιπάλους και να διεκδικήσουν έως και 100.000 ευρώ! Ποιος θα καταφέρει να βγει αλώβητος από τη δοκιμασία; Μήπως κάποιος από τους αντιπάλους του θα ανατρέψει την πορεία του προς το μεγάλο χρηματικό έπαθλο; Ο «Μονομάχος» υπόσχεται καθημερινές αναμετρήσεις μέχρι τελικής πτώσεως!</desc>
 </programme>
-<programme start="20230928160000 +0300" stop="20230928180000 +0300" channel="86aeb52d500b8a84fc832f8c71fe765b">
-  <title lang="eng">Mega</title>
-  <title lang="gre">[K8] Live News</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ενημερωτική εκπομπή με τον Νίκο Ευαγγελάτο. Το «Live News» παρακολουθεί στενά την καθημερινή ειδησεογραφία και ξεφυλλίζει την πληρέστερη ενημερωτική ατζέντα της ημέρας. Επισκόπηση των γεγονότων με τη χρήση των πρωτοποριακών γραφικών επαυξημένης πραγματικότητας (AR Graphics) του MEGA, ανάδειξη και σχολιασμός της τρέχουσας επικαιρότητας μέσα από την κριτική ματιά και την εμπεριστατωμένη άποψη του Νίκου Ευαγγελάτου, αποκαλυπτικά ρεπορτάζ και συνεντεύξεις με τους πρωταγωνιστές των εξελίξεων συνθέτουν και φέτος μια ολοκληρωμένη, αξιόπιστη πρόταση ενημέρωσης.</desc>
-</programme>
-<programme start="20230928180000 +0300" stop="20230928181000 +0300" channel="86aeb52d500b8a84fc832f8c71fe765b">
-  <title lang="eng">Mega</title>
-  <title lang="gre">[K8] Δελτίο Νοηματικής</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα παρέχει την επιλογή υποτίτλων. Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο στη νοηματική.</desc>
-</programme>
-<programme start="20230928181000 +0300" stop="20230928183000 +0300" channel="86aeb52d500b8a84fc832f8c71fe765b">
-  <title lang="eng">Mega</title>
-  <title lang="gre">[K8] Live News</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ενημερωτική εκπομπή με τον Νίκο Ευαγγελάτο. Το «Live News» παρακολουθεί στενά την καθημερινή ειδησεογραφία και ξεφυλλίζει την πληρέστερη ενημερωτική ατζέντα της ημέρας. Επισκόπηση των γεγονότων με τη χρήση των πρωτοποριακών γραφικών επαυξημένης πραγματικότητας (AR Graphics) του MEGA, ανάδειξη και σχολιασμός της τρέχουσας επικαιρότητας μέσα από την κριτική ματιά και την εμπεριστατωμένη άποψη του Νίκου Ευαγγελάτου, αποκαλυπτικά ρεπορτάζ και συνεντεύξεις με τους πρωταγωνιστές των εξελίξεων συνθέτουν και φέτος μια ολοκληρωμένη, αξιόπιστη πρόταση ενημέρωσης.</desc>
-</programme>
-<programme start="20230928183000 +0300" stop="20230928194500 +0300" channel="86aeb52d500b8a84fc832f8c71fe765b">
-  <title lang="eng">Mega</title>
-  <title lang="gre">[K8] The Chase</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ψυχαγωγική εκπομπή. Το τηλεπαιχνίδι «The Chase» προσφέρει καθημερινά αδρεναλίνη γνώσεων στους τηλεθεατές που το αγάπησαν και το ξεχώρισαν εδώ και δύο σεζόν. Η Μαρία Μπεκατώρου αναλαμβάνει να φέρει αντιμέτωπους τους παίκτες με τους πάντοτε ετοιμοπόλεμους Chasers, που έχουν αποδείξει πόσο εύκολα μπορούν να ανταποκριθούν σε έναν καταιγισμό δύσκολων ερωτήσεων. Η «οικογένεια» των Chaser, δηλαδή «Το Βουνό», «Το Γεράκι», «Η Γυναίκα με τα Μαύρα» και «Ο Αδέκαστος Επιθεωρητής», υποδέχεται ένα ακόμα μέλος. Το «Super Αγόρι», ο νεότερος διώκτης του The Chase παγκοσμίως, αναλαμβάνει να δώσει το δικό του ύφος στο τηλεπαιχνίδι του MEGA, προκαλώντας τους νέους παίκτες σε απαιτητικές καταδιώξεις. Ποιοι θα καταφέρουν να βγουν αλώβητοι σε αυτό το κυνήγι γνώσεων με τους Chasers, διεκδικώντας χρηματικό ποσό που μπορεί να ξεπεράσει και τις 10.000 ευρώ μετρητά; Παρουσίαση: Μαρία Μπεκατώρου. Head of Productions: Αντώνης Μάτσος. Contact Director: Γιάννης Μπίτσικας. Σκηνοθέτης: Πάνος Γεωργίου. Project Manager: Βασίλης Μεγκλίδης. Αρχισυνταξία: Δήμητρα Πασσά. Οργάνωση Παραγωγής: Σταμάτης Τσάκωνας.</desc>
-</programme>
 <programme start="20230928194500 +0300" stop="20230928205000 +0300" channel="86aeb52d500b8a84fc832f8c71fe765b">
   <title lang="eng">Mega</title>
   <title lang="gre">[K8] Mega Γεγονότα: Κεντρικό Δελτίο Ειδήσεων</title>
@@ -3413,31 +3336,6 @@
   <title lang="gre">[K8] Φιλοδοξίες</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Ελληνική σειρά. Επεισόδιο 510. Ο Παύλος, με την αναπάντεχη βοήθεια της Αγγελικής, καταφέρνει για μια ακόμα φορά να πείσει τη Ρένα ότι η Ζένια τον κατηγορεί άδικα. Η Θάλεια αποφασίζει να μην κρατήσει το παιδί και τηλεφωνεί στη γυναικολόγο της να κλείσει ραντεβού. Στο μεταξύ, η Λένα έχει στείλει τη Μαρία στο μαγαζί που δουλεύει για να την προσλάβουν και της παίρνει κρυφά το μωρό. Το δίνει στον Θωμά, ο οποίος το πάει στην Αλίκη. Η Αλίκη δεν πιστεύει στα μάτια της. Πρωταγωνιστούν: Γιάννης Βούρος (Ερρίκος Βαρσάμης), Λίλα Καφαντάρη (Αλίκη Δαμίγου), Λουκία Παπαδάκη (Ρένα Αντύπα), Βύρων Κολάσης (Ανδρέας Καρέλης), Νίκη Παλληκαράκη (Μαριάννα-Ελπίδα Λέφα), Ναταλία Λιονάκη (Θάλεια Ιωαννίδου), Ευδοκία Ρουμελιώτη (Ζένια Βαρσάμη), Μάριος Ιορδάνου (Άρης Βαρσάμης), Χρήστος Κελαντώνης (Μηνάς Ιωαννίδης), Ελπίδα Μαζαράκη (Βέρα Ιωαννίδου), Γιασεμή Κηλαϊδόνη (Μιράντα Φράγκου), Χάρης Παπάς (Βασίλης Δούκας), Τατιάνα Άρκου (Εύη), Αγγελική Πετροπετσιώτη (Τζούλι Μαρίνου), Δήμητρα Τσέλιου (Ζωή Μάργαρη), Αντώνης Πάλλης (Κυριάκος), Χριστίνα Κουτσουδάκη (Σοφία), Τζίνα Αλιμόνου (Αγγελική Στασινού), Τζώννυ Θεοδωρίδης (Στέφανος Μάνεσης), Φίλιππος Σοφιανός (Παύλος Βρεττός). Στο ρόλο του Θωμά, ο Δημήτρης Ζωγραφάκης. Σκηνοθεσία: Ερρίκος Αναγνωστόπουλος-Κατερίνα Κοκκινίδου. Σενάριο: Άντα Γκουρμπαλή. Διεύθυνση Φωτογραφίας: Βασίλης Μυλωνόπουλος. Μουσική: Φώτης Μητρόπουλος. Σκηνογράφος: Νατάσσα Δημοπούλου. Ενδυματολόγος: Λίνκα Λαμπαδαρίδου. Οργάνωση Παραγωγής: Μόσχα Χάρκα. Εκτέλεση Παραγωγής: ΑΝΩΣΗ.</desc>
-</programme>
-<programme start="20230928173000 +0300" stop="20230928180000 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
-  <title>Sport News</title>
-  <sub-title>Αθλητικά</sub-title>
-  <desc>Αθλητικά</desc>
-</programme>
-<programme start="20230928180000 +0300" stop="20230928191500 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
-  <title>Αναλυτικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
-  <sub-title>Ενημέρωση (Ειδήσεις)</sub-title>
-  <desc>[Detailed News Report - Sports - Weather]    Το αναλυτικό δελτίο ειδήσεων της ΕΡΤNEWS με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Όλη η επικαιρότητα και οι τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
-</programme>
-<programme start="20230928191500 +0300" stop="20230928192500 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
-  <title>Η Οικονομία Σήμερα (E)</title>
-  <sub-title>Ενημέρωση</sub-title>
-  <desc>Ενημέρωση</desc>
-</programme>
-<programme start="20230928192500 +0300" stop="20230928193500 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
-  <title>Ο Κόσμος Σήμερα (E)</title>
-  <sub-title>Ενημέρωση</sub-title>
-  <desc>Για να μαθαίνετε πρώτοι ό,τι συμβαίνει σε κάθε γωνιά του πλανήτη. Ρίχνουμε φως στις διεθνείς εξελίξεις. Οι πρωταγωνιστές, το παρασκήνιο και ο παγκόσμιος αντίκτυπος.</desc>
-</programme>
-<programme start="20230928193500 +0300" stop="20230928200000 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
-  <title>Euronews</title>
-  <sub-title>Ενημέρωση</sub-title>
-  <desc>Ειδήσεις από το  Διεθνές Μέσο Ενημέρωσης Euronews. Με ομάδα 400 δημοσιογράφων,  περισσότερων από 30 διαφορετικών εθνικοτήτων, καλύπτει ευρωπαϊκές και παγκόσμιες  ειδήσεις 24 ώρες το 24ωρο, επτά ημέρες την εβδομάδα, με μεγάλη ποικιλία προγ</desc>
 </programme>
 <programme start="20230928200000 +0300" stop="20230928201500 +0300" channel="221efd34a4b435182f85f9a89b76f91c">
   <title>Ειδήσεις - Νοηματική</title>
@@ -4754,16 +4652,6 @@
   <sub-title>Ενημέρωση (Εκπομπή)</sub-title>
   <desc>Μια διεισδυτική ματιά στα μεγάλα θέματα της ημέρας και τις συνέπειές τους."Δύσκολα" θέματα, απλά λόγια, χωρίς προκατάληψη. Παρουσίαση: Ηλίας Σιακαντάρης Αρχισυνταξία: Ματίνα Καραμίντζου Δημοσιογραφική Παραγωγή: Θωμάς Γράψας, Μιχάλης Αρβανίτης</desc>
 </programme>
-<programme start="20230928150000 +0300" stop="20230928180000 +0300" channel="3b84b23922e6ae9f74a19a77fb7ee1d9">
-  <title>Στούντιο 4</title>
-  <sub-title>Ψυχαγωγία (Εκπομπή)</sub-title>
-  <desc>Έτος παραγωγής: 2023  ΣΤΟΥΝΤΙΟ 4, η πιο χαλαρή τηλεοπτική παρέα, καθημερινά από τις 15:00 έως τις 18:00  στην ΕΡΤ1, με τη Νάνσυ Ζαμπέτογλου και τον Θανάση Αναγνωστόπουλο.  Παρουσίαση: Νάνσυ Ζαμπέτογλου, Θανάσης Αναγνωστόπουλος  Επιμέλεια: Νάνσυ Ζαμπέτογλου, Θανάσης Αναγνωστόπουλος Σκηνοθεσία: Θανάσης Τσαουσόπουλος Διεύθυνση φωτογραφίας: Γιώργος Πουλίδης Project director: Γιώργος Ζαμπέτογλου Αρχισυνταξία: Κλεοπάτρα Πατλάκη Βοηθός αρχισυντάκτης: Διονύσης Χριστόπουλος  Συντακτική ομάδα: Κώστας Βαϊμάκης, Θάνος Παπαχάμος, Αθηνά Ζώρζου, Βάλια Ζαμπαρα, Φανή Πλατσατούρα, Κέλλυ Βρανάκη, Κωνσταντίνος Κούρος  Μουσική επιμέλεια: Μιχάλης Καλφαγιάννης Υπεύθυνη καλεσμένων: Μαρία Χολέβα Διεύθυνση παραγωγής: Κυριακή Βρυσοπούλου Παραγωγή: EΡT-PlanA</desc>
-</programme>
-<programme start="20230928180000 +0300" stop="20230928191500 +0300" channel="3b84b23922e6ae9f74a19a77fb7ee1d9">
-  <title>Αναλυτικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
-  <sub-title>Ενημέρωση (Ειδήσεις)</sub-title>
-  <desc>Το αναλυτικό δελτίο ειδήσεων με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα,  ψύχραιμα και αντικειμενικά. Ολη η επικαιρότητα και οι τελευταίες εξελίξεις από  την Ελλάδα και όλο τον κόσμο.  Παρουσίαση: Γιώργος Κουβαράς</desc>
-</programme>
 <programme start="20230928191500 +0300" stop="20230928201500 +0300" channel="3b84b23922e6ae9f74a19a77fb7ee1d9">
   <title>Οι Περιπέτειες του Ηρακλή Πουαρό  - Ε Κύκλος</title>
   <sub-title>Ψυχαγωγία (Σειρά) «Η μυστική φόρμουλα» (The underdog)</sub-title>
@@ -5220,18 +5108,6 @@
   <sub-title>Ψυχαγωγία (Εκπομπή)</sub-title>
   <desc>Έτος παραγωγής: 2023  ΣΤΟΥΝΤΙΟ 4, η πιο χαλαρή τηλεοπτική παρέα, καθημερινά από τις 15:00 έως τις 18:00  στην ΕΡΤ1, με τη Νάνσυ Ζαμπέτογλου και τον Θανάση Αναγνωστόπουλο.  Παρουσίαση: Νάνσυ Ζαμπέτογλου, Θανάσης Αναγνωστόπουλος  Επιμέλεια: Νάνσυ Ζαμπέτογλου, Θανάσης Αναγνωστόπουλος Σκηνοθεσία: Θανάσης Τσαουσόπουλος Διεύθυνση φωτογραφίας: Γιώργος Πουλίδης Project director: Γιώργος Ζαμπέτογλου Αρχισυνταξία: Κλεοπάτρα Πατλάκη Βοηθός αρχισυντάκτης: Διονύσης Χριστόπουλος  Συντακτική ομάδα: Κώστας Βαϊμάκης, Θάνος Παπαχάμος, Αθηνά Ζώρζου, Βάλια Ζαμπαρα, Φανή Πλατσατούρα, Κέλλυ Βρανάκη, Κωνσταντίνος Κούρος  Μουσική επιμέλεια: Μιχάλης Καλφαγιάννης Υπεύθυνη καλεσμένων: Μαρία Χολέβα Διεύθυνση παραγωγής: Κυριακή Βρυσοπούλου Παραγωγή: EΡT-PlanA</desc>
 </programme>
-<programme start="20230928173000 +0300" stop="20230928184500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
-  <title lang="eng">ANT1</title>
-  <title lang="gre">[K8] 5X5</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Τηλεπαιχνίδι, παρουσιάζει ο Θάνος Κιούσης. Το αγαπημένο τηλεπαιχνίδι «5Χ5», επιστρέφει ανανεωμένο και υπόσχεται να μας διασκεδάσει. Στο τιμόνι της παρουσίασης θα είναι ο Θάνος Κιούσης, που τόσο πολύ έχουμε αγαπήσει μέσα από τον μοναδικό χαρακτήρα του Τόνι Σφήνου. Τον Θάνο όλοι κάπου, κάπως τον γνωρίζουμε... αλλά φέτος θα τον γνωρίσουμε ακόμα καλύτερα! Χαρισματικός, ανατρεπτικός και με αστείρευτο χιούμορ, θα ξεδιπλώσει όλες τις πτυχές της πολύπλευρης προσωπικότητάς του και με τις μοναδικές ατάκες του θα γεμίσει τα απογεύματά μας με αμέτρητες στιγμές γέλιου. Όπως, μάλιστα, αρέσει σε εκείνον να λέει οι συστάσεις είναι απλές: «Είμαι ο Θάνος Κιούσης, είμαι 1,95 και μου αρέσει το καλό φαγητό... τα υπόλοιπα θα τα πούμε στο πλατό». Οι κανόνες του παιχνιδιού απλοί: Ρωτήσαμε 100 ανθρώπους και ψάχνουμε τη δημοφιλέστερη απάντηση σε καθημερινές, απλές αλλά και ανατρεπτικές ερωτήσεις, όπως: «Πού βρισκόσασταν την τελευταία φορά που φωνάξατε δυνατά;» «Ποιος θα ήταν ο πρώτος άνθρωπος που θα ευχαριστούσατε, εάν παίρνατε Όσκαρ;» «Πού πιστεύετε ότι αρέσει στους περισσότερους να πηγαίνουν στο πρώτο ραντεβού;». Δύο αντίπαλες ομάδες, από 5 μέλη η κάθε μία, προσπαθούν να μαντέψουν με επιτυχία τις δημοφιλέστερες απαντήσεις, που παραμένουν απρόβλεπτες. Για να βρουν τις σωστές απαντήσεις οι παίκτες δεν χρειάζονται γνώσεις. Πρέπει να έχουν φαντασία, χιούμορ και απλή λογική σκέψη καθώς η πιο απλή ερώτηση μπορεί να κρύβει την πιο απίστευτη απάντηση! Η ομάδα που θα συγκεντρώσει τους περισσότερους πόντους, περνάει στον τελικό γύρο, διεκδικώντας 5.000 ευρώ. Η νικήτρια ομάδα έχει το δικαίωμα να παίξει και στα επόμενα δύο επεισόδια, και εφόσον συνεχίζει τις νίκες της, μπορεί να διεκδικήσει μέχρι και 15.000 ευρώ! Φέτος, το 5Χ5 και ο Θάνος Κιούσης με χιούμορ, φαντασία και ανεβασμένη διάθεση υπόσχονται ακόμα περισσότερο παιχνίδι, εκπλήξεις και απίθανες στιγμές διασκέδασης! Και μην ξεχνάτε... χαμένος δεν θα φύγει κανείς! Συντελεστές: Head of Production: Αντώνης Μάτσος. Project Manager: Βασίλης...</desc>
-</programme>
-<programme start="20230928184500 +0300" stop="20230928200000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
-  <title lang="eng">ANT1</title>
-  <title lang="gre">[K] Ant1 News</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Κεντρικό δελτίο ειδήσεων με τον Νίκο Χατζηνικολάου. Με αιχμή τη δημοσιογραφική έρευνα, την ψύχραιμη παρουσίαση των γεγονότων και την ουσιαστική καταγραφή όλων των απόψεων, το Κεντρικό Δελτίο Ειδήσεων του ΑΝΤ1 θα είναι και τη νέα τηλεοπτική σεζόν η σταθερή φωνή της ενημέρωσης. Ο Νίκος Χατζηνικολάου καθημερινά στις 18:45 θα βρίσκεται εκεί που γεννιέται η είδηση. Με το κύρος, και την εμπειρία του, θα δίνει την πραγματική εικόνα της επικαιρότητας και θα αποκαλύπτει όλες τις πτυχές της ειδησεογραφίας, εντός και εκτός συνόρων, έχοντας μαζί του το ισχυρό δημοσιογραφικό και τεχνικό δυναμικό του ΑΝΤ1. Μέσα από αποκλειστικά ρεπορτάζ, ζωντανές συνδέσεις, αποκλειστικές συνεντεύξεις και έγκριτες αναλύσεις, θα φέρνει στο προσκήνιο την ουσία των γεγονότων, την αλήθεια των πρωταγωνιστών, τον αντίκτυπο των πολιτικών και κοινωνικών εξελίξεων. Στο Κεντρικό Δελτίο Ειδήσεων του ΑΝΤ1, θα παρεμβαίνουν με τα ρεπορτάζ και τα σχόλιά τους, η Κάτια Μακρή, ο Αντώνης Δελλατόλας, ο Κωνσταντίνος Φίλης, ο Τάσος Τέλλογλου και η Ελένη Βαρβιτσιώτη. Το Κεντρικό Δελτίο Ειδήσεων του ΑΝΤ1 συνεχίζει, και φέτος, δυναμικά την πορεία του, έχοντας ως πυξίδα την πολύπλευρη ενημέρωση των πολιτών. Με εγκυρότητα, μαχητικότητα, γρήγορα αντανακλαστικά θα βρίσκεται στην πρώτη γραμμή των γεγονότων, θέτοντας σε πρώτο πλάνο την αξία της πραγματικής ενημέρωσης.</desc>
-</programme>
 <programme start="20230928200000 +0300" stop="20230928210000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
   <title lang="gre">[K8] Ποιος Θέλει Να Γίνει Εκατομμυριούχος;</title>
@@ -5340,23 +5216,23 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Τηλεπαιχνίδι, παρουσιάζει ο Γρηγόρης Αρναούτογλου. Πιστεύεις στη γνώση ή στην τύχη; Ακούς το ένστικτο ή τη λογική; Έχεις δυνατή μνήμη; Ρισκάρεις; Όσοι θέλουν να γίνουν «Εκατομμυριούχοι» έχουν τις απαντήσεις και θα τις δίνουν, καθημερινά στον ΑΝΤ1, μέσα από το πιο κλασικό τηλεπαιχνίδι γνώσεων της ελληνικής τηλεόρασης. Το «Ποιος θέλει να γίνει εκατομμυριούχος;», με τον Γρηγόρη Αρναούτογλου, επιστρέφει δυνατά τη Δευτέρα 25 Σεπτεμβρίου στις 20:00, και οι εγκυκλοπαίδειες και τα λεξικά θα... πιάσουν φωτιά! 15 ερωτήσεις, 3 βοήθειες, 2 μαξιλαράκια, ένα μεγάλο έπαθλο 100.000 ευρώ και πολλοί ενδιαφέροντες παίκτες έρχονται και θα μονοπωλούν, καθημερινά, τη συντροφιά μας. Ο μοναδικός Γρηγόρης θα δίνει το σύνθημα, οι ερωτήσεις θα πέφτουν σαν βροχή και η αγωνία θα χτυπάει κόκκινο! Έχοντας, ήδη, διαγράψει μια εντυπωσιακή πορεία στον ΑΝΤ1, έχοντας χαρίσει όνειρα, αλλά και πάνω από 1.000.000 ευρώ, ο «Εκατομμυριούχος» θα κάνει και φέτος το πιο συναρπαστικό κι απίστευτο ταξίδι στον χάρτη της ψυχαγωγίας. Το «Ποιος θέλει να γίνει εκατομμυριούχος;», με τον Γρηγόρη Αρναούτογλου, έρχεται τη Δευτέρα 25 Σεπτεμβρίου, και καθημερινά στις 20:00, για να χαρίσει γνώσεις, συγκινήσεις και απρόβλεπτες στιγμές. Πάμε να παίξουμε ξανά και να αλλάξουμε τη ζωή μας! Executive Producer: Στέφανος Καλλιγιάννης. Σκηνοθεσία: Γιάννης Μαράκης. Project Manager: Ανδρέας Τζίφας. Διευθυντής Φωτογραφίας: Θέμης Μερτύρης. Διεύθυνση Παραγωγής: Δημήτρης Γραμματόπουλος. Αρχισυνταξία: Πάνος Χάλας.</desc>
 </programme>
-<programme start="20230929210000 +0300" stop="20230929230000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+<programme start="20230929210000 +0300" stop="20230930001500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
-  <title lang="gre">[K] Τραγούδα! (Sing!)</title>
+  <title lang="gre">[K12] Η Μάγισσα (E)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ταινία κινουμένων σχεδίων αμερικάνικης παραγωγής 2016. Ο Μπάστερ Μουν, ένα χαριτωμένο κοάλα, είναι θιασάρχης ενός χρεοκοπημένου θεάτρου.Για να το σώσει από την πτώχευση χρειάζεται επειγόντως μια μεγάλη εμπορική επιτυχία  και έτσι αποφασίζει να διοργανώσει έναν διαγωνισμό τραγουδιού, με μεγάλο χρηματικό έπαθλο, που όμως δεν έχει να δώσει! Σκηνοθεσία: Γκαρθ Τζένινγκς, Κριστόφ Λουρντελέ. Διάρκεια: 96΄ (μεταγλ.)</desc>
+  <desc lang="gre">Δραματική σειρά εποχής, ελληνικής παραγωγής 2023. Η ιστορία. Μάνη, 1817... Δύο αντίπαλες πατριές, του Καπεταναίου Λάσκαρη και του Γερακάρη, είναι πια ενωμένες μέσω του γάμου των παιδιών τους. Η εξαφάνιση, όμως, του μόλις 40 ημερών εγγονιού των δύο οικογενειών, θα ταράξει την εύθραυστη ισορροπία της σχέσης τους. Ποιος κρύβεται πίσω από την εξαφάνιση του βρέφους; Οι οικογένειες ξεσηκώνονται και ψάχνουν παντού. Με το πρώτο φως της αυγής, η νεαρή υπηρέτρια των Λασκαραίων, η Θεοφανώ, θα οδηγηθεί από ένα όραμα στις όχθες του ποταμού της Άρνας... Τι έχει συμβεί; Τι είναι αυτό που θα έρθει στο φως και θα αποκαλύψει καλά κρυμμένα μυστικά από το παρελθόν, που μπορεί να οδηγήσουν σε αλληλοσπαραγμό; Πρωταγωνιστούν οι:  Έλλη Τρίγγου, Κατερίνα Λέχου, Γιώργος Γάλλος, Τάσος Νούσιας, Μαρκέλλα Γιαννάτου, Νίκος Ψαρράς, Αναστάσης Ροϊλός, Μάρκος Παπαδοκωνσταντάκης, Κωνσταντίνος Κωνσταντόπουλος, Στεφανί Καπετανίδη, Βασίλης Μηλιώνης, Άρης Νινίκας, Γιάννης Τσουμαράκης, Χριστίνα Χριστοδούλου, Καλλιόπη Χάσκα, Παρθενόπη Μπουζούρη, Γιώτα Αργυροπούλου, Νέστορας Κοψιδάς, Γιλμάζ Χουσμέν, Θεοδόσης Φυλακτός, Παναγιώτης Κατσώλης, Δήμητρα Κολλά, Γεωργία Κυριαζή, Μιχάλης Αφολαγιάν κ.ά. Στον ρόλο της Κυπριανής η Θέμις Μπαζάκα. Σενάριο: Μελίνα Τσαμπάνη-Πέτρος Καλκόβαλης. Σκηνοθεσία: Λευτέρης Χαρίτος. Διεύθυνση Φωτογραφίας: Βασίλης Κασβίκης. Σκηνογράφος: Δημήτρης Κατσίκης. Ενδυματολόγος: Τριάδα Παπαδάκη. Μοντάζ: Λυδία Αντώνοβα. Εκτέλεση Παραγωγής: JK Productions [Το πρόγραμμα περιέχει απρεπή εκφορά λόγου και σκηνές σεξ και βίας]. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων.</desc>
 </programme>
-<programme start="20230929230000 +0300" stop="20230930004500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
-  <title lang="eng">ANT1</title>
-  <title lang="gre">[K12] Ο Βασιλιάς Σκορπιός (The Scorpion King)</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Περιπέτεια αμερικάνικης παραγωγής 2002. 5.000 χρόνια πριν στην πόλη Γόμορρα, o διαβολικός βασιλιάς Μεμνον είναι αποφασισμένος να αφανίσει όλες τις νομαδικές φυλές της ερήμου. Γι αυτό χρησιμοποιεί τις ψυχικές δυνάμεις της μάγισσας Κασσάνδρας για να προβλέπει τις μεγάλες του νίκες, αφού μπορεί και μαντεύει τις κινήσεις των αντιπάλων του. Σε μια τελευταία τους προσπάθεια να εμποδίσουν τον Μέμνον προτού κατακτήσει όλο τον κόσμο, οι αρχηγοί των λιγοστών ελεύθερων φυλών, προσλαμβάνουν τον δολοφόνο Μαθαγιους για να σκοτώσει την μάγισσα. Ο Μαθαγιους πρέπει να εκπληρώσει την μοίρα του και να γίνει ο μεγάλος Βασιλιάς Σκορπιός... Παίζουν: Ντουέιν Τζόνσον, Κέλι Χου, Μάικλ Κλερ Ντάνκαν, Στίβεν Μπραντ, Μπέρναρντ Χιλ. Σκηνοθεσία: Τσακ Ράσελ. Διάρκεια: 92' [Το πρόγραμμα περιέχει σκηνές βίας και σεξ].</desc>
-</programme>
-<programme start="20230930004500 +0300" stop="20230930030000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+<programme start="20230930001500 +0300" stop="20230930021500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
   <title lang="gre">[K12] The Gunman: Σε Θέση Βολής (The Gunman)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Περιπέτεια αμερικάνικης - βρετανικής - γαλλικής παραγωγής 2015. Ένας απόστρατος των Ειδικών Δυνάμεων, ο Τζιμ Τεριέ που υποφέρει από μετατραυματικό στρες, προσπαθεί να ξαναβρεί τον έρωτα της ζωής του την Άνι αφού προηγουμένως ταξιδέψει από το Λονδίνο στη Βαρκελώνη και διασχίσει την Ευρώπη για να καθαρίσει το όνομα του. Πριν 8 χρόνια, όταν δούλευε ως μισθοφόρος, είχε δολοφονήσει τον Υπουργό μεταλλείων του Κογκό μετά από εντολή πολυεθνικών μεταλλευτικών εταιρειών. Ο οργανισμός με τον οποίο εργαζόταν, όμως, έχει άλλα σχέδια για αυτόν. Η προδοσία δεν αργεί να έρθει και ο ήρωας βρίσκεται στο επίκεντρο ενός ανηλεούς κυνηγητού γάτας-ποντικού σε όλη την Ευρώπη... Παίζουν: Σον Πεν, Τζασμίν Τρίνκα, Χαβιέρ Μπαρδέμ, Μαρκ Ράιλανς, Ρέι Γουίνστον, Ίντρις Έλμπα, Πέτερ Φρανζέν. Σκηνοθεσία: Πιερ Μορέλ. Διάρκεια: 115' [Το πρόγραμμα περιέχει ακατάλληλη φρασεολογία και σκηνές βίας].</desc>
+</programme>
+<programme start="20230930021500 +0300" stop="20230930030000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+  <title lang="eng">ANT1</title>
+  <title lang="gre">[K12] Κρυφά Μονοπάτια (E)</title>
+  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
+  <desc lang="gre">Δραματική σειρά, ελληνικής παραγωγής 2005. Ένας δύστροπος μαθητής της τρίτης Λυκείου και μια νεοδιόριστη καθηγήτρια Μαθηματικών, στο Λύκειο του Γυθείου. Εκείνος ένα παιδί του χωριού, βοσκός, αγρότης, αυτή Αθηναία, αστή, αρραβωνιασμένη με τον αγαπημένο του ξάδερφο. Η Ειρήνη και ο Πέτρος! Όταν η Ειρήνη ανακαλύπτει ότι ο Πέτρος διαθέτει ένα σπάνιο μαθηματικό ταλέντο, που ακόμα και ο ίδιος αγνοεί, αποφασίζει ανυποψίαστη να τον βοηθήσει. Ο αέρας από τον Ταΰγετο κατεβάζει δυσοίωνα μηνύματα, αλλά κανείς δεν μπορεί να τ' ακούσει... Πρωταγωνιστές: Τσιμιτσέλης Γιάννης, Ακριβοπούλου Μαίρη, Κομνηνός Λάκης, Καραναστάσης Διαμαντής. Σενάριο: Σπηλιόπουλος Βασίλης. Σκηνοθεσία: Μανουσάκης Μανούσος. Παραγωγή: ΤΗΛΕΚΙΝΗΣΗ (Μ. ΜΑΝΟΥΣΑΚΗΣ) [Το πρόγραμμα περιέχει σκηνές σεξ].</desc>
 </programme>
 <programme start="20230930030000 +0300" stop="20230930040000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
@@ -5534,9 +5410,9 @@
 </programme>
 <programme start="20231002010000 +0300" stop="20231002031500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
-  <title lang="gre">[K12] Ο Βασιλιάς Σκορπιός (The Scorpion King)</title>
+  <title lang="gre">[K12] Yesterday</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Περιπέτεια αμερικάνικης παραγωγής 2002. 5.000 χρόνια πριν στην πόλη Γόμορρα, o διαβολικός βασιλιάς Μεμνον είναι αποφασισμένος να αφανίσει όλες τις νομαδικές φυλές της ερήμου. Γι αυτό χρησιμοποιεί τις ψυχικές δυνάμεις της μάγισσας Κασσάνδρας για να προβλέπει τις μεγάλες του νίκες, αφού μπορεί και μαντεύει τις κινήσεις των αντιπάλων του. Σε μια τελευταία τους προσπάθεια να εμποδίσουν τον Μέμνον προτού κατακτήσει όλο τον κόσμο, οι αρχηγοί των λιγοστών ελεύθερων φυλών, προσλαμβάνουν τον δολοφόνο Μαθαγιους για να σκοτώσει την μάγισσα. Ο Μαθαγιους πρέπει να εκπληρώσει την μοίρα του και να γίνει ο μεγάλος Βασιλιάς Σκορπιός... Παίζουν: Ντουέιν Τζόνσον, Κέλι Χου, Μάικλ Κλερ Ντάνκαν, Στίβεν Μπραντ, Μπέρναρντ Χιλ. Σκηνοθεσία: Τσακ Ράσελ. Διάρκεια: 92' [Το πρόγραμμα περιέχει σκηνές βίας και σεξ].</desc>
+  <desc lang="gre">Κωμωδία βρετανικής παραγωγής 2019. O Τζακ Μάλικ, ένας τραγουδοποιός που δεν καταφέρνει να ξεχωρίσει, και το όνειρό του να πετύχει στη μουσική βιομηχανία μοιάζει να απομακρύνεται συνεχώς. Ο άσημος τραγουδοποιός ζει σε μια μικρή Βρετανική πόλη και τα όνειρά του για επιτυχία και φήμη γρήγορα ξεθωριάζουν, παρά την αφοσίωση και υποστήριξη της καλύτερης παιδικής του φίλης, Έλι. Μετά από ένα μυστηριώδες γενικό blackout, ο Τζακ ανακαλύπτει ότι οι Beatles δεν υπήρξαν ποτέ...! Έτσι λοιπόν ο νεαρός τραγουδιστής αρχίζει να εκτελεί τα τραγούδια του μεγαλύτερου συγκροτήματος όλων των εποχών σε ένα κοινό που δεν τους έχει ακούσει ποτέ! Με τη βοήθεια της μάνατζέρ του Ντέμπρα, η φήμη του εκτοξεύεται. Όμως, όσο πιο διάσημος γίνεται, τόσο κινδυνεύει να χάσει την Έλι, το μόνο πρόσωπο που πραγματικά πίστεψε σε αυτόν. Για να βρει την ισορροπία του, ο Τζακ θα πρέπει να επιστρέψει εκεί που ανήκει για να αποδείξει ότι.. το μόνο που χρειάζεται είναι αγάπη... Παίζουν: Λίλι Τζέιμς, Κέιτ ΜακΚίνον, Χιμές Πατέλ, Εντ Σίραν. Σκηνοθεσία: Ντάνι Μπόιλ. Διάρκεια: 116' [Το πρόγραμμα περιέχει ακατάλληλη φρασεολογία].</desc>
 </programme>
 <programme start="20231002031500 +0300" stop="20231002040000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
@@ -5856,19 +5732,19 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Δημοσιογραφική εκπομπή. Τίτλος επεισοδίου: Οι Έλληνες στα Κατεχόμενα της Ουκρανίας. Ο πληθυσμός των Ελλήνων της Αζοφικής πριν μερικά χρόνια ξεπερνούσε τις 100.000. Με την έναρξη του πολέμου στην Ουκρανία τον Φεβρουάριο του 2022, πολλοί από αυτούς έφυγαν αλλά πάρα πολλοί επίσης έμειναν πίσω και κάποιοι τώρα επιστρέφουν. Εδάφη της Ουκρανίας προσαρτήθηκαν από τη Ρωσία και οι Έλληνες της περιοχής ζουν πλέον σε μια άλλη χώρα και πραγματικότητα. Πώς είναι η ζωή τους σήμερα; Πόσοι έμειναν πίσω και πώς προσπαθούν να ξαναοργανώσουν της ζωή και την κοινότητά τους; To VICE εξασφάλισε αποκλειστικά πρόσβαση στα κατεχόμενα.</desc>
 </programme>
-<programme start="20231005011500 +0300" stop="20231005021500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+<programme start="20231005011500 +0300" stop="20231005023000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
-  <title lang="gre">[K8] Ελληνικό Πρόγραμμα (Ε)</title>
+  <title lang="gre">[K12] Ο Πρώτος Από Εμάς (E)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ελληνικό πρόγραμμα.</desc>
+  <desc lang="gre">Δραματική κομεντί, ελληνικής παραγωγής 2023. Επεισόδιο 01. Ο Άλκης, η Κάτια, ο Νικόλας, η Έλενα, ο Φίλιππος και η Σοφία είναι μια παρέα έξι φίλων, που διανύουν την τέταρτη δεκαετία της ζωής τους. Παρά τις διαφορές τους, είναι ενωμένοι σαν γροθιά και έχουν δώσει την υπόσχεση πως δεν θα τους χωρίσει τίποτα. Η ζωή όμως επιφυλάσσει εκπλήξεις. Η απρόσμενη λιποθυμία του Άλκη θα τους φέρει αντιμέτωπους με τον πιο μεγάλο φόβο τους, καθώς  οι προβλέψεις των γιατρών για την υγεία του Άλκη μοιάζουν δυσοίωνες. Ο Άλκης αποφασίζει λοιπόν να τρέξει τον μεγαλύτερο αγώνα της ζωής του, απολαμβάνοντας την κάθε του στιγμή, με συνοδοιπόρους τους αγαπημένους του φίλους. Η παρέα, πιο ενωμένη από ποτέ, ετοιμάζεται για έναν 'μαραθώνιο' που θα αλλάξει τις ζωές όλων. Πρωταγωνιστούν (με αλφαβητική σειρά): Μάριος Αθανασίου, Λένα Δροσάκη, Βίβιαν Κοντομάρη, Αθηνά Οικονομάκου, Γιάννης Τσιμιτσέλης, Σπύρος Χατζηαγγελάκης. Μαζί τους: Γιάννης Δρακόπουλος, Αντώνης Γιαννακός, Εύα Κοτανίδη, Κωνσταντίνα Τάκαλου, Νατάσα Κοτσοβού, Λάζαρος Βασιλείου, Ηρώ Πεκτέση, Ιωάννα Πιατά, Σεμέλη Μητροπούλου κ.α. Στον ρόλο του ΄Εβαν ο Κώστας Φαλελάκης. Στον ρόλο του Στέφανου ο Γιάννης Βούρος. Σκηνοθεσία: Πιέρρος Ανδρακάκος. Διασκευή σεναρίου: Νίκος Παπαδόπουλος, Γιώργος Τελτζίδης. Εκτέλεση παραγωγής: ΑΝΤΕΝΝΑ STUDIOS. Η σειρά είναι διασκευή της επιτυχημένης σειράς 'The First of Us' της Paramount Pictures International. Το πρόγραμμα παρέχεται με δυνατότητα επιλογής ειδικών υποτίτλων.</desc>
 </programme>
-<programme start="20231005021500 +0300" stop="20231005030000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+<programme start="20231005023000 +0300" stop="20231005031500 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
   <title lang="gre">[K12] Κρυφά Μονοπάτια (E)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Δραματική σειρά, ελληνικής παραγωγής 2005. Ένας δύστροπος μαθητής της τρίτης Λυκείου και μια νεοδιόριστη καθηγήτρια Μαθηματικών, στο Λύκειο του Γυθείου. Εκείνος ένα παιδί του χωριού, βοσκός, αγρότης, αυτή Αθηναία, αστή, αρραβωνιασμένη με τον αγαπημένο του ξάδερφο. Η Ειρήνη και ο Πέτρος! Όταν η Ειρήνη ανακαλύπτει ότι ο Πέτρος διαθέτει ένα σπάνιο μαθηματικό ταλέντο, που ακόμα και ο ίδιος αγνοεί, αποφασίζει ανυποψίαστη να τον βοηθήσει. Ο αέρας από τον Ταΰγετο κατεβάζει δυσοίωνα μηνύματα, αλλά κανείς δεν μπορεί να τ' ακούσει... Πρωταγωνιστές: Τσιμιτσέλης Γιάννης, Ακριβοπούλου Μαίρη, Κομνηνός Λάκης, Καραναστάσης Διαμαντής. Σενάριο: Σπηλιόπουλος Βασίλης. Σκηνοθεσία: Μανουσάκης Μανούσος [Το πρόγραμμα περιέχει σκηνές σεξ].</desc>
 </programme>
-<programme start="20231005030000 +0300" stop="20231005040000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
+<programme start="20231005031500 +0300" stop="20231005040000 +0300" channel="43c84541bf3f281bb5344533b97ec2f2">
   <title lang="eng">ANT1</title>
   <title lang="gre">[K12] Της Αγάπης Μαχαιριά (E)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
@@ -5969,12 +5845,6 @@
   <title lang="gre">[K12] Κρυφά Μονοπάτια (E)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Δραματική σειρά, ελληνικής παραγωγής 2005. Ένας δύστροπος μαθητής της τρίτης Λυκείου και μια νεοδιόριστη καθηγήτρια Μαθηματικών, στο Λύκειο του Γυθείου. Εκείνος ένα παιδί του χωριού, βοσκός, αγρότης, αυτή Αθηναία, αστή, αρραβωνιασμένη με τον αγαπημένο του ξάδερφο. Η Ειρήνη και ο Πέτρος! Όταν η Ειρήνη ανακαλύπτει ότι ο Πέτρος διαθέτει ένα σπάνιο μαθηματικό ταλέντο, που ακόμα και ο ίδιος αγνοεί, αποφασίζει ανυποψίαστη να τον βοηθήσει. Ο αέρας από τον Ταΰγετο κατεβάζει δυσοίωνα μηνύματα, αλλά κανείς δεν μπορεί να τ' ακούσει... Πρωταγωνιστές: Τσιμιτσέλης Γιάννης, Ακριβοπούλου Μαίρη, Κομνηνός Λάκης, Καραναστάσης Διαμαντής. Σενάριο: Σπηλιόπουλος Βασίλης. Σκηνοθεσία: Μανουσάκης Μανούσος [Το πρόγραμμα περιέχει σκηνές σεξ].</desc>
-</programme>
-<programme start="20230928170000 +0300" stop="20230928190000 +0300" channel="c3d810cc7c051795555c7d48e96a2cea">
-  <title lang="eng">ATTICA TV</title>
-  <title lang="gre">[K8] Restart</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Ο Αλέξανδρος Κλώσσας και η Ευαγγελίνα Βόσνου έρχονται κάθε απόγευμα στις 17:00. "Διαβάζουν" με ανατρεπτική διάθεση και βλέπουν με κριτική ματιά την επικαιρότητα, προβάλλοντας την εναλλακτική κοινωνική και πολιτική δημιουργικότητα.</desc>
 </programme>
 <programme start="20230928190000 +0300" stop="20230928210000 +0300" channel="c3d810cc7c051795555c7d48e96a2cea">
   <title lang="eng">ATTICA TV</title>
@@ -6851,24 +6721,6 @@
   <title lang="gre">[K] ATTICA TV</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">ATTICA TV</desc>
-</programme>
-<programme start="20230928160000 +0300" stop="20230928174500 +0300" channel="8dee52cc52b4d70fed7120a00be59bf1">
-  <title lang="eng">[K] O Tavromahos Prohorei</title>
-  <title lang="gre">[K] Ο Ταυρομάχος Προχωρεί</title>
-  <desc lang="eng">Greek film, comedy. Year: 1963. Reluctantly, the heartbroken daughter of a kindly meat wholesaler embarks on an exciting European road trip with her father and his lively driving instructor with whom she doesn't get along well. Are their brief tiffs the prelude to love? Stars: Kostas Hatzihristos, Nannete Doric, Nikos Fermas. Director: Sokrates Kapsaskis. Writer: Lakis Mihailidis. Duration: 77'.</desc>
-  <desc lang="gre">Ελληνική ταινία, κωμωδία του 1963. Ο Ανδρέας (Νίκος Φέρμας) είναι ένας ζωέμπορος ο οποίος, παρά την περιουσία που έχει φτιάξει, εξακολουθεί να μένει σεμνός και καλός με τους ανθρώπους γύρω του. Η γυναίκα του όμως (Μαρίκα Νέζερ) συμπεριφέρεται αλαζονικά και σπαταλά το χρόνο της χαρτοπαίζοντας. Όταν του ζητάει να κάνουν το γύρο της Ευρώπης με αυτοκίνητο, ο Ανδρέας πρέπει πρώτα απ' όλα να μάθει οδήγηση. Ο Μιχάλης (Κώστας Χατζηχρήστος) θα προσπαθήσει να του μάθει να οδηγεί, αλλά ο Ανδρέας δείχνει ανεπίδεκτος μαθήσεως. Ερωτευμένος με την κόρη του Ανδρέα, την Τζούλια (Νανέτ Ντορίκ), ο Μιχάλης θα προσφερθεί να κάνει τον σωφέρ της οικογένειας. Με το τέλος του ταξιδιού, ο Μιχάλης θα κατακτήσει την Τζούλια και θα παντρευτούν. Ηθοποιοί: Λ. Ορφανού, Κ. Χατζηχρήστος, Ν. Φέρμας, Μ. Νέζερ. Σκηνοθεσια: Καψάσκης. Διάρκεια: 77'.</desc>
-</programme>
-<programme start="20230928174500 +0300" stop="20230928184500 +0300" channel="8dee52cc52b4d70fed7120a00be59bf1">
-  <title lang="eng">[K8] To Mystiko Tis Petaloudas - Season 2</title>
-  <title lang="gre">[K8] Το Μυστικό Της Πεταλούδας - 2ος Κύκλος</title>
-  <desc lang="eng">Greek drama TV series. Episode 55.</desc>
-  <desc lang="gre">Το πρόγραμμα διατίθεται με υπότιτλους για άτομα με προβλήματα ακοής. Ελληνική δραματική σειρά, παραγωγής 2020. Επεισόδιο 55. Ο Φίλιππος, αμέσως μετά την αποφυλάκιση του, τρέχει στο νοσοκομείο και μαθαίνει απ΄ τον Χριστόφορο ότι η Ειρήνη είναι έγκυος. Ο Νικόλας λέει στον Χριστόφορο ότι θα ήθελε να τον βοηθήσει στις ανακρίσεις που θα γίνουν για την καταγγελία του Θέμη ότι είναι ο Κυριάκος Βασιλείου. Η Έλενα πάει στο τμήμα και τους λέει πως ο Χριστόφορος αποπειράθηκε να τη σκοτώσει έξω απ΄ το νοσοκομείο και τους ζητάει να την προστατέψουν απ΄ αυτόν. Η Κρίστια λέει στο Μάρκο ότι δεν έχει αποφασίσει ακόμα, αν θα είναι δικηγόρος του Θέμη κατά τη διάρκεια των ανακρίσεων. Πάνω στην έντονη κουβέντα τους, όμως, της τηλεφωνεί ο Θέμης κι η Κρίστια πρέπει ν΄ αποφασίσει άμεσα τι θα κάνει. Η Χλόη είναι αναστατωμένη μετά απ΄ αυτό που της είπε ο Παύλος, ότι η Κρίστια είναι ερωτευμένη μαζί του. Δεν ξέρει τι να κάνει, όταν βρίσκει κάτι τυχαία στα σκουπίδια κι αποφασίζει να μάθει για το παρελθόν του Παύλου και ν΄ ανακαλύψει, αν αυτό που της είπε για την Κρίστια είναι αλήθεια. Πρωταγωνιστούν: Γιώργος Νινιός, Ελισάβετ Μουτάφη, Κατ. Μισηχρόνη, Δημ. Γκουτζαμάνης, Νεοκλής Νεοκλέους, Μαριάννα Πολυχρονίδη, Μαρίλια Γιαλλουρίδου, Χάρης Κολός, Νίκ. Γκέλια, Μέμος Μπεγνής, Ανδρέας Βούλγαρης, Αλέξανδρος Παρίσσης, Ηλέκτρα Φωτιάδου, Ερμίνα Κυριαζή, Ανδρές Βασιλείου, Φώτης Κάραλλης, Πολυξένη Σάββα, Ανθή Κασσινού, Έλενα Παπαδοπούλου. Και ο μικρός Ανδρέας: Γιώργος Κουρής. Σκηνοθεσία: Σταύρος Ποταμάρης. Σενάριο: Άντα Γκουρμπαλή. Διεύθυνση Φωτογραφίας: Σάββας Χρυσοστόμου. Παραγωγή: Arts and Film Productions.</desc>
-</programme>
-<programme start="20230928184500 +0300" stop="20230928200000 +0300" channel="8dee52cc52b4d70fed7120a00be59bf1">
-  <title lang="eng">[K] Open News</title>
-  <title lang="gre">[K] Open News</title>
-  <desc lang="eng">Impartial, modern reliable and in depth information about current and international news.</desc>
-  <desc lang="gre">OPEN NEWS σημαίνει αδέσμευτη ενημέρωση. Αξιόπιστη, σε βάθος ενημέρωση, αποκαλυπτική, με συνέπεια, με αλήθεια. Οι δημοσιογράφοι και οι ανταποκριτές του ΟΡΕΝ βρίσκονται καθημερινά στα κέντρα των αποφάσεων. Το Κεντρικό Δελτίο Ειδήσεων του ΟΡΕΝ είναι η γέφυρα επικοινωνίας που ζητούν οι πολίτες και βρίσκεται πάντα στην καρδιά των πολιτικών, διεθνών και οικονομικών εξελίξεων. Παρουσίαση: Εύα Αντωνοπούλου.</desc>
 </programme>
 <programme start="20230928200000 +0300" stop="20230928210000 +0300" channel="8dee52cc52b4d70fed7120a00be59bf1">
   <title lang="eng">[K8] Erotas Fygas - Season 2</title>
@@ -7824,24 +7676,6 @@
   <desc lang="eng">Open Beyond</desc>
   <desc lang="gre">Open Beyond</desc>
 </programme>
-<programme start="20230928155000 +0300" stop="20230928174000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K8] Shopping Star</title>
-  <title lang="gre">[K8] Shopping Star</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Παιχνίδι μόδας με την Ηλιάνα Παπαγεωργίου. Το?«Shopping?Star» έρχεται ανανεωμένο για 8η σεζόν στη πιο fun fashion εκδοχή?του! Οικοδέσποινα στο πιο απολαυστικό παιχνίδι μόδας η Ηλιάνα Παπαγεωργίου, μία από τις?ομορφότερες Ελληνίδες, που έχει κατακτήσει τον κόσμο της μόδας σε Ελλάδα και εξωτερικό. Είναι εδώ για να δώσει τις στιλιστικές της συμβουλές αλλά και για να μοιραστεί μαζί με τις?υποψήφιες Shopping Stars τα?πιο ψαγμένα fashion tips της σεζόν! Η Ηλιάνα Παπαγεωργίου υποδέχεται κάθε βδομάδα πέντε Shopping Star κορίτσια, που αγαπούν τη μόδα, λατρεύουν τα ψώνια, πιστεύουν στο γούστο τους και έρχονται με αγάπη και ασφάλεια στο δικό τους παιχνίδι για να λάμψουν και ταυτόχρονα να διεκδικήσουν την ευκαιρία να στεφθούν «Shopping?Star» της εβδομάδας και να κερδίσουν 1.000 ευρώ! Αυτή τη σεζόν διασκεδάζουμε περισσότερο από ποτέ, μοιραζόμαστε εμπειρίες, αγοράζουμε παρέα ξεχωριστά ρούχα, παπούτσια, αξεσουάρ και φυσικά κάνουμε το όνειρο μας πραγματικότητα... να περπατήσουμε στην πιο fun fashion πασαρέλα της ελληνικής τηλεόρασης! Μια πασαρέλα όπου δεν έχουν σημασία η ηλικία και οι αναλογίες, αλλά η αγάπη για τη μόδα και το παιχνίδι! Η μόδα είναι το πάθος μας και όχι απλά το ομολογούμε... το κάνουμε πράξη! «Shopping?Star»! Ο απόλυτος ορισμός της εμπειρίας του?shopping, η καθημερινή, απολαυστική βόλτα στα μαγαζιά, με τα πολύτιμα?tips?της?Ηλιάνας Παπαγεωργίου και τα απίθανα σχόλια του?Βαγγέλη Χαρισόπουλου,?είναι στο?Star! Ποια θα καταφέρει να εντυπωσιάσει με το προσωπικό της στυλ; Ποια θα κάνει την αυστηρότερη κριτική; Ποια?θα είναι γενναιόδωρη στη βαθμολογία; Και ποια θα στεφθεί...?Shopping?Star; Η μάχη του στυλ συνεχίζεται για?8η?χρονιά?στο?Star! Executive?Producer: Πέγκυ Χόλη. Σκηνοθεσία: Jo Σισμάνογλου. Αρχισυνταξία: Μαρία Μπλάνα. Οργάνωση Παραγωγής: Αργύρης Μανουσόπουλος. Εκτέλεση Παραγωγής:?Green?Pixel.</desc>
-</programme>
-<programme start="20230928174000 +0300" stop="20230928183000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K8] Cash Or Trash</title>
-  <title lang="gre">[K8] Cash Or Trash</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλος. Ψυχαγωγική εκπομπή με τη Δέσποινα Μοιραράκη. Cash or Trash, η πρώτη εκπομπή στην ελληνική τηλεόραση που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη. Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, για 3η σεζόν για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος! Αυτή η σεζόν θα είναι ...συλλεκτική και θα σπάσει κάθε ρεκόρ, με ακόμα πιο σπάνια αντικείμενα και πιο συναρπαστικά επεισόδια! Kαθημερινά (Δευτέρα - Παρασκευή) στις 17:40 οι επίδοξοι, εκκεντρικοί, «αδίστακτοι» αγοραστές, λάτρεις των παλιών αντικειμένων και φανατικοί συλλέκτες, θα... «κονταροχτυπιούνται» για να αποκτήσουν τα αντικείμενα του πόθου τους! Αγοραστές οι: ο έμπορος κοσμημάτων και αντικέρ Γιώργος Τσαγκαράκης, η επενδύτρια νέων τεχνολογιών Ελομίδα Βισβίκη, η interion designer Ιόλη Χιώτινη, ο παλαιοπώλης Δημήτρης Δεμερτζής, ο concept maker Γεώργιος Καράμπελας, ο επιχειρηματίας Θάνος Μαρίνης, ο δικηγόρος Φοίβος Στρουγγάρης, η παλαιοπώλισσα Άντα Πανά και η αντικέρ Έρμα Στυλιανίδου. Νέες είσοδοι για φέτος ο επιχειρηματίας Ρίτσαρντ Κοσκινάς και η έμπορος κοσμημάτων Ειρήνη Πλευράκη. Αναρωτηθήκατε ποτέ πόσα χρήματα θα μπορούσατε να πάρετε για αυτό το παλιό, σκονισμένο αντικείμενο, που για χρόνια σας πιάνει χώρο στην αποθήκη; Πόσα παράξενα αναμνηστικά, γαμήλια δώρα από άλλες εποχές,  βρίσκονται ξεχασμένα στο πατάρι της μαμάς; Προς θεού, μην τα πετάξετε γιατί μπορεί να έχετε στην κατοχή σας κομμάτια μοναδικά, που μπορείτε να πουλήσετε και να πλουτίσετε! Που;  Στο Cash or Trash, που επιστρέφει τη νέα τηλεοπτική σεζόν στο Star για να σας αποκαλύψει την τιμή των μικρών ή μεγάλων θησαυρών και των κρυμμένων κειμηλίων σας! Παίκτες από όλη την Ελλάδα φέρνουν στην εκπομπή το αντικείμενο, που θέλουν να διαθέσουν προς πώληση. Ένα συλλεκτικό κομμάτι, ένα...</desc>
-</programme>
-<programme start="20230928183000 +0300" stop="20230928194500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K8] Wheel Of Fortune</title>
-  <title lang="gre">[K8] Τροχός Της Τύχης</title>
-  <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλος. Τηλεπαιχνίδι με τον Πέτρο Πολυχρονίδη. Μαζί του η Νατάσα Κουβελά. Ο «Τροχός της Τύχης», το μακροβιότερο παιχνίδι της ελληνικής τηλεόρασης με παρουσιαστή τον ανατρεπτικό Πέτρο Πολυχρονίδη, είναι ασταμάτητος, απρόβλεπτος, διασκεδαστικός, ξέρει καλά να κρατάει σε αγωνία τους παίκτες και τους τηλεθεατές μέχρι το τελευταίο λεπτό αλλά και να μοιράζει γνώση, πολλά χρήματα, απίστευτα δώρα και φυσικά, αυτοκίνητα στους τυχερούς παίκτες! Το πιο αγαπημένο τηλεπαιχνίδι της απογευματινής ζώνης, που έχει κατακτήσει την κορυφή της τηλεθέασης και τις καρδιές των τηλεθεατών, επιστρέφει τον Σεπτέμβριο στο νέο πρόγραμμα του Star καθημερινά αλλά και τα Σαββατοκύριακα! 7 μέρες την εβδομάδα, 7 συναρπαστικά επεισόδια! Σε ανανεωμένο πλατό ο «Τροχός της Τύχης» θα γυρίσει δυνατά για 10η χρονιά και θα απολαύσουμε το αστείρευτο χιούμορ και τον ενθουσιασμό του Πέτρου Πολυχρονίδη, τη χαρά του παιχνιδιού, την αγωνία του αποτελέσματος και την εντυπωσιακή Νατάσα Κουβελά στο πλευρό του Πέτρου, να αποκαλύπτει τις εύστοχες ή μη επιλογές των παικτών. Όπως πάντα, στο παιχνίδι συμμετέχουν τρεις παίκτες, οι οποίοι γυρίζουν τον Τροχό, επιλέγουν σύμφωνα της αλφαβήτου και κερδίζουν χρήματα ή δώρα. Ο πρώτος παίκτης, που θα βρει την κρυμμένη λέξη ή φράση, κερδίζει όσα χρήματα έχει συγκεντρώσει στον γύρο. Ο παίκτης, που έχει συγκεντρώσει το μεγαλύτερο ποσό στο τέλος του βασικού μέρους του παιχνιδιού, είναι ο μεγάλος νικητής και παίζει στον Τελικό για επιπλέον κέρδη και για το μεγάλο δώρο, ένα αυτοκίνητο Jeep Renagade e-Hybrid, προσφορά της εταιρίας AVIS! Ο «Τροχός της Τύχης» «ζαλίζει» με τα κέρδη, τα δώρα, το κέφι, τις εκπλήξεις! Μας έχει γίνει πια τρόπος ζωής! Τα απογεύματα της ελληνικής τηλεόρασης ανήκουν στον «Τροχό της Τύχης» με τον Πέτρο Πολυχρονίδη! Πάμε δυνατά για μία υπέροχα παιχνιδιάρικη σεζόν και μην ξεχνάτε: στον «Τροχό της Τύχης» όποιος γυρίζει κερδίζει! Εκτέλεση Παραγωγής: Green Pixel. Head Of Production: Σάββας Βέλλας. Executive Producer:...</desc>
-</programme>
 <programme start="20230928194500 +0300" stop="20230928210000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K] Star News</title>
   <title lang="gre">[K] Star News</title>
@@ -8047,10 +7881,10 @@
   <desc lang="gre">Το πρόγραμμα μεταδίδεται με υπότιτλους. Κωμική σειρά, αμερικανικής παραγωγής 2003-2004, που θα ολοκληρωθεί σε 17 επεισόδια. 10ος Κύκλος. Επεισόδια 07 + 08. Η Φοίβη και ο Μάικ σκέφτονται να δώσουν τα λεφτά για τον γάμο τους σε κάποια φιλανθρωπική οργάνωση αλλά δεν μπορούν να αποφασίσουν σε ποια. Ο Ρος ανακαλύπτει πως η Ρέιτσελ φοβάται τις κούνιες και για αυτό δεν θέλει να αφήσει την Έμα να παίξει. Προσπαθεί να την κάνει να ξεπεράσει τη φοβία της. Η Μόνικα και ο Τσάντλερ ανακαλύπτουν πως η υπεύθυνη για τις υιοθεσίες έχει παρελθόν με τον Τζόι... Η Μόνικα ανακοινώνει στην παρέα πως αυτή τη χρονιά δεν θα μαγειρέψει για το δείπνο των Ευχαριστιών και η Φοίβη προσπαθεί με κάθε τρόπο να της αλλάξει γνώμη. Ο Ρος, η Ρέιτσελ, η Φοίβη και ο Τζόι καθυστερούν να πάνε στο δείπνο εξαιτίας ενός διαγωνισμού για μωρά και ενός αγώνα. Η Μόνικα και ο Τσάντλερ είναι θυμωμένοι με τη συμπεριφορά τους και για να τους τιμωρήσουν τους κλειδώνουν έξω από το διαμέρισμα τους. Η ατμόσφαιρα γίνεται εορταστική όταν η Μόνικα μαθαίνει πως μια νεαρή έγκυος από το Οχάιο τους επέλεξε για να υιοθετήσουν το μωρό της. Παίζουν: Κόρτνεϊ Κοξ, Τζένιφερ Άνιστον, Ντέιβιντ Σουΐμερ, Μάθιου Πέρι, Ματ Λε Μπλανκ, Λίζα Κούντροου. Σκηνοθεσία: Ρόμπι Μπένσον, Πίτερ Μπόνερ.</desc>
 </programme>
 <programme start="20230930163000 +0300" stop="20230930183000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K] Greek Movie</title>
-  <title lang="gre">[K] Πολυτεχνίτης Και Ερημοσπίτης</title>
+  <title lang="eng">[K8] Farma (R)</title>
+  <title lang="gre">[K8] Φάρμα (Ε)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Κωμωδία ελληνικής παραγωγής 1963. Ο αγράμματος επαρχιώτης Θανάσης Μπιρμπίλης αφήνει το χωριό του κι έρχεται στην Αθήνα σε αναζήτηση καλύτερης τύχης, αλλά δεν καταφέρνει να στεριώσει σε καμία δουλειά. Ως γκαρσόνι στην ταβέρνα του Μπουρμπούρη, όπου τον έστειλε ο βουλευτής της περιοχής του Θόδωρος Μπακατσουλάρας, καπελώνει με μια μακαρονάδα ένα αγόρι, που δεν θέλει να φάει. Ως διαιτητής σ' έναν αγώνα πάλης, όπου τον όρισε ο συγχωριανός του Βαγγέλης τρώει το ξύλο της χρονιάς του, επειδή δεν είναι αντικειμενικός κριτής. Ως υπάλληλος φαρμακείου τσακώνεται με μια πελάτισσά του και τον συνοδό της. Ως φωτογράφος βγάζει ακέφαλες φωτογραφίες και θολώνει μπροστά στα κάλλη μιας σταρ του καμπαρέ. Ως αστυφύλακας καλείται στο σπίτι μιας γυναίκας που μένει με την υπηρέτριά της για να συλλάβει έναν διαρρήκτη και τα κάνει θάλασσα. Κι όταν αποφασίζει να κάνει έναν πλούσιο γάμο, το Ρενάκι του τα ξαναφτιάχνει με τον Πανάγο της, τον βαρύμαγκα πρώην μνηστήρα της. Τελικά ο Θανάσης επιστρέφει στο χωριό του με τις δυσάρεστες αλλά πολύτιμες εμπειρίες της ζωής στην πρωτεύουσα. Παίζουν: Θανάσης Βέγγος, Μαρίκα Κρεββατά, Γιώργος Γαβριηλίδης, Νίκη Λινάρδου, Γιάννης Βογιατζής, Μπέττυ Μοσχονά, Δημήτρης Νικολαϊδης, Κατερίνα Γιουλάκη, Νίκος Φέρμας. Σενάριο - Σκηνοθεσία: Αλέκος Σακελλάριος. Διάρκεια: 77'.</desc>
+  <desc lang="gre">Παιχνίδι περιπέτειας με τον Λεωνίδα Κουτσόπουλο. ΦΑΡΜΑ, ένα από τα πιο επιτυχημένα διεθνή τηλεοπτικά format, επιστρέφει στην ελληνική τηλεόραση από την οθόνη του Star με εντελώς ανανεωμένη και σύγχρονη προσέγγιση! Παρουσιαστής ο αγαπημένος Λεωνίδας Κουτσόπουλος, που έχει ξεχωρίσει για την απλότητά του και έχει κερδίσει την αγάπη του κοινού με την αμεσότητα και με το εύστοχο χιούμορ, που έχει δημιουργήσει δική του «σχολή»! Στην καρδιά της ελληνικής φύσης, πολλά χιλιόμετρα μακριά από την άνεση του καναπέ, του ψυγείου και του ντελίβερι, η ΦΑΡΜΑ προσκαλεί τολμηρούς άντρες και γυναίκες να αφήσουν πίσω τους τη ρουτίνα, την καθημερινότητα και το άγχος της πόλης, για να επιστρέψουν στην ουσία, στις ρίζες μας, στη φύση! Οι παίκτες της ΦΑΡΜΑΣ καλούνται να αντιμετωπίσουν όλες τις προκλήσεις, που κάνουν την αγροτική ζωή τόσο δύσκολη αλλά ταυτόχρονα τόσο μαγευτική, όπως τη φροντίδα των ζώων, την καλλιέργεια της γης, τη σκληρή δουλειά για όσα, μέχρι τώρα, ήταν αυτονόητα. Ταυτόχρονα, όμως, γοητεύονται από τη δύναμη και τη γενναιοδωρία της φύσης, που πάντα επιστρέφει απλόχερα την αγάπη που της προσφέρεις! Νικητής, τόσο στο παιχνίδι όσο και σε προσωπικό επίπεδο, θα είναι εκείνος ή εκείνη που θα καταφέρει να εναρμονιστεί βαθιά και ειλικρινά με τους νόμους της φύσης! Στη ΦΑΡΜΑ, ο κάθε παίκτης αναμετριέται με τον εαυτό του, αλλά είναι  απαραίτητο να αναμετρηθεί και με τους γύρω του. Γιατί στο βιωματικό αυτό ταξίδι, οι παίκτες καλούνται καθημερινά να ανταποκριθούν σε αποστολές - δοκιμασίες με μεγάλες απαιτήσεις δύναμης, αντοχής και δεξιότητας. Μόνο έτσι θα κερδίσουν τις παροχές και τα έπαθλα, που θα κάνουν τη ζωή στην ύπαιθρο, ευκολότερη. Κάθε εβδομάδα κάποιος θα αποχωρεί. Ο λιγότερο αυτάρκης; Ο λιγότερο ικανός να αποτελέσει χρήσιμο μέλος μιας ομάδας; Ο λιγότερο αποτελεσματικός στις δοκιμασίες; Η συνολική στρατηγική, που θα επιλέξει κάθε παίκτης κατά την παραμονή του στη ΦΑΡΜΑ, αλλά κυρίως η θέληση και η προσαρμοστικότητα του, είναι τα στοιχεία που θα αναδείξουν τον νικητή, ο οποίος...</desc>
 </programme>
 <programme start="20230930183000 +0300" stop="20230930194500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K8] Wheel Of Fortune</title>
@@ -8160,29 +7994,29 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Κωμωδία ελληνικής παραγωγής του 1967. Με αφορμή την άφιξη του 6ου Αμερικανικού Στόλου στο λιμάνι του Πειραιά, ο ντροπαλός και αξιοπρεπής λογιστής και καθηγητής αγγλικών, Φίλιππος Αγγελούτσος αναγκάζεται, προκειμένου να συμπληρώσει το πενιχρό εισόδημά του, να παραδίδει μαθήματα αγγλικών σε δύο κορίτσια, την Τζίνα και τη Λίζα, που δουλεύουν σε ένα μπαρ της Τρούμπας, για να μπορούν να συνεννοούνται κάπως με τους ναύτες του 6ου αμερικανικού στόλου.. Όταν έρχεται επιτέλους ο στόλος, ο Σταύρος, ιδιοκτήτης του μπαρ, αντιμετωπίζει πρόβλημα στην προσέλκυση των ναυτών στο μαγαζί και απευθύνεται και πάλι στο Φίλιππο για βοήθεια... Παίζουν: Γιώργος Κωνσταντίνου, Άννα Καλουτά, Νίκη Λινάρδου, Νίκος Φέρμας, Αλέκος Τζανετάκος, Σωτήρης Μουστάκας, Σάσα Καστούρα, Ορφέας Ζάχος, Τζόλυ Γαρμπή, Μάκης Δεμίρης. Σενάριο/Σκηνοθεσία: Αλέκος Σακελλάριος. Μουσική: Γιάννης Σπανός. Διάρκεια: 99'.</desc>
 </programme>
-<programme start="20231001150000 +0300" stop="20231001153000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+<programme start="20231001150000 +0300" stop="20231001151500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K] Star News</title>
   <title lang="gre">[K] Star News</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Μεταδίδεται με κυλιόμενους τίτλους κύριων ειδήσεων. Διακεκριμένοι δημοσιογράφοι παρουσιάζουν και αναλύουν όλες τις εξελίξεις σε εθνικό αλλά και διεθνές επίπεδο, ενώ έμπειροι αναλυτές σχολιάζουν τις πολιτικές και οικονομικές εξελίξεις και μας ενημερώνουν για όλα τα ζητήματα που μας απασχολούν. Με τη Ράνια Τραγόμαλλου.</desc>
 </programme>
-<programme start="20231001153000 +0300" stop="20231001154500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+<programme start="20231001151500 +0300" stop="20231001153000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K] Star News</title>
   <title lang="gre">[K] Ειδήσεις Στη Νοηματική Γλώσσα</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Μεταδίδεται με υπότιτλους. Με τον Κώστα Χριστοδουλάκο.</desc>
 </programme>
-<programme start="20231001154500 +0300" stop="20231001161500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+<programme start="20231001153000 +0300" stop="20231001163000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K8] Friends - Season 10</title>
   <title lang="gre">[K8] Τα Φιλαράκια (Friends) - 10ος Κύκλος</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με υπότιτλους. Κωμική σειρά, αμερικανικής παραγωγής 2003-2004, που θα ολοκληρωθεί σε 17 επεισόδια. 10ος Κύκλος. Επεισόδιο 09. ΗΗ Μόνικα και ο Τσάντλερ ταξιδεύουν μέχρι το Οχάιο για να συναντήσουν την Έρικα, τη μητέρα του παιδιού, που θα υιοθετήσουν. Το ραντεβού του Τζόι με μια κοπέλα δεν έχει ευτυχή κατάληξη... Στον ρόλο της Έρικα, η Άννα Φάρις (Mom). Παίζουν: Κόρτνεϊ Κοξ, Τζένιφερ Άνιστον, Ντέιβιντ Σουΐμερ, Μάθιου Πέρι, Ματ Λε Μπλανκ, Λίζα Κούντροου. Σκηνοθεσία: Ρόμπι Μπένσον, Πίτερ Μπόνερ.</desc>
+  <desc lang="gre">Το πρόγραμμα μεταδίδεται με υπότιτλους. Κωμική σειρά, αμερικανικής παραγωγής 2003-2004, που θα ολοκληρωθεί σε 17 επεισόδια. 10ος Κύκλος. Επεισόδιο 09+10. Η Μόνικα και ο Τσάντλερ ταξιδεύουν μέχρι το Οχάιο για να συναντήσουν την Έρικα, τη μητέρα του παιδιού, που θα υιοθετήσουν. Το ραντεβού του Τζόι με μια κοπέλα δεν έχει ευτυχή κατάληξη... Στον ρόλο της Έρικα, η Άννα Φάρις (Mom). Η Φοίβη και η Ρέιτσελ αναστατώνονται όταν βλέπουν τον Τσάντλερ μαζί με μια γοητευτική ξανθιά γυναίκα. Αποκαλύπτεται πως η γυναίκα αυτή δεν είναι ερωμένη του αλλά μεσίτρια... Παίζουν: Κόρτνεϊ Κοξ, Τζένιφερ Άνιστον, Ντέιβιντ Σουΐμερ, Μάθιου Πέρι, Ματ Λε Μπλανκ, Λίζα Κούντροου. Σκηνοθεσία: Ρόμπι Μπένσον, Πίτερ Μπόνερ.</desc>
 </programme>
-<programme start="20231001161500 +0300" stop="20231001183000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+<programme start="20231001163000 +0300" stop="20231001183000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K] Greek Movie</title>
-  <title lang="gre">[K] Μοντέρνα Σταχτοπούτα</title>
+  <title lang="gre">[K] Πολυτεχνίτης Και Ερημοσπίτης</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Αισθηματική κομεντί ελληνικής παραγωγής 1965. Η Κατερίνα είναι μια ορφανή κοπέλα που ζει με τη γιαγιά της και τα τρία μικρά αδελφάκια της. Όμορφη και έξυπνη,  αγωνίστηκε να μορφωθεί, για να μπορέσει να ανταπεξέλθει στις οικογενειακές της υποχρεώσεις. Δυστυχώς, όμως, δεν έχει κατορθώσει να βρει δουλειά. Έτσι, όταν πληροφορείται ότι ο Αλέξης Βαρνέζης, γενικός διευθυντής μιας μεγάλης εταιρείας πετρελαίων, απέλυσε την ιδιαιτέρα γραμματέα του, βρίσκει τρόπο να φτάσει μέχρι τον Βαρνέζη και, χάρη στις ικανότητές της, κατορθώνει να κερδίσει την κενή θέση. Σιγά-σιγά, μετά από πολλές παρεξηγήσεις, αλλά και μετά από ένα επαγγελματικό ταξίδι στη Ρώμη, η Κατερίνα κατορθώνει να γοητεύσει τον πλούσιο προϊστάμενό της και να τον πείσει να την... διώξει από γραμματέα του και να την κάνει γυναίκα του. Παίζουν: Αλίκη Βουγιουκλάκη, Δημήτρης Παπαμιχαήλ, Άρης Μαλιαγρός, Σταύρος Ξενίδης, Χρήστος Πάρλας, Δέσποινα Νικολαϊδου. Σενάριο - Σκηνοθεσία: Αλέκος Σακελλάριος. Μουσική: Σταύρος Ξαρχάκος. Διάρκεια: 102'.</desc>
+  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Κωμωδία ελληνικής παραγωγής 1963. Ο αγράμματος επαρχιώτης Θανάσης Μπιρμπίλης αφήνει το χωριό του κι έρχεται στην Αθήνα σε αναζήτηση καλύτερης τύχης, αλλά δεν καταφέρνει να στεριώσει σε καμία δουλειά. Ως γκαρσόνι στην ταβέρνα του Μπουρμπούρη, όπου τον έστειλε ο βουλευτής της περιοχής του Θόδωρος Μπακατσουλάρας, καπελώνει με μια μακαρονάδα ένα αγόρι, που δεν θέλει να φάει. Ως διαιτητής σ' έναν αγώνα πάλης, όπου τον όρισε ο συγχωριανός του Βαγγέλης τρώει το ξύλο της χρονιάς του, επειδή δεν είναι αντικειμενικός κριτής. Ως υπάλληλος φαρμακείου τσακώνεται με μια πελάτισσά του και τον συνοδό της. Ως φωτογράφος βγάζει ακέφαλες φωτογραφίες και θολώνει μπροστά στα κάλλη μιας σταρ του καμπαρέ. Ως αστυφύλακας καλείται στο σπίτι μιας γυναίκας που μένει με την υπηρέτριά της για να συλλάβει έναν διαρρήκτη και τα κάνει θάλασσα. Κι όταν αποφασίζει να κάνει έναν πλούσιο γάμο, το Ρενάκι του τα ξαναφτιάχνει με τον Πανάγο της, τον βαρύμαγκα πρώην μνηστήρα της. Τελικά ο Θανάσης επιστρέφει στο χωριό του με τις δυσάρεστες αλλά πολύτιμες εμπειρίες της ζωής στην πρωτεύουσα... Παίζουν: Θανάσης Βέγγος, Μαρίκα Κρεββατά, Γιώργος Γαβριηλίδης, Νίκη Λινάρδου, Γιάννης Βογιατζής, Μπέττυ Μοσχονά, Δημήτρης Νικολαϊδης, Κατερίνα Γιουλάκη, Νίκος Φέρμας. Σενάριο - Σκηνοθεσία: Αλέκος Σακελλάριος. Διάρκεια: 77'.</desc>
 </programme>
 <programme start="20231001183000 +0300" stop="20231001194500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K8] Wheel Of Fortune</title>
@@ -8202,13 +8036,13 @@
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Κωμωδία ελληνικής παραγωγής 1967. Ένας πλοίαρχος, διοικητής σχολής ναυτικών δοκίμων, ο Λεωνίδας Πετρόχειλος με τρεις ζωηρούς γιους, τον Κίμωνα, τον Αντρέα και τον Μπάμπη, έμεινε χήρος, γι'αυτό προσλαμβάνει την κυρία Μαίρη, ως οικονόμο για να μπει μια τάξη στο χάος, που επικρατεί στο σπίτι του. Η κυρία Μαίρη, εκτός από την τάξη στο σπίτι, βάζει τάξη και στην οικογένεια και γίνεται αμέσως απαραίτητη και αγαπητή σε όλους.  Όταν όμως αποκαλύπτεται η απάτη, που έπαιξε η Μαίρη στον Λεωνίδα με τη βοήθεια του φίλου του Ξενοφώντα  προκειμένου να πλησιάσει και να πείσει τον διοικητή να μην αποβάλει τον αδερφό της από τη σχολή, ο αυστηρός διοικητής αναγκάζεται να τη διώξει αλλά ο έρωτας πάντα κερδίζει. Παίζουν: Λάμπρος Κωνσταντάρας, Μάρω Κοντού, Θανάσης Παπαδόπουλος, Σταύρος Ξενίδης, Παύλος Λιάρος, Μίτση Κωνσταντάρα, Βαγγέλη Ιωαννίδης. Σενάριο - Σκηνοθεσία: Αλέκος Σακελλάριος. Μουσική: Γιώργος Κατσαρός. Διάρκεια: 83' .</desc>
 </programme>
-<programme start="20231001230000 +0300" stop="20231002010000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K8] Greek Movie</title>
-  <title lang="gre">[K8] Army Baby</title>
+<programme start="20231001230000 +0300" stop="20231002011500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+  <title lang="eng">[K12] Mechanic: Resurrection</title>
+  <title lang="gre">[K12] Το Μούτρο: Η Επιστροφή (Mechanic: Resurrection)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">Το πρόγραμμα μεταδίδεται με περιφραστικούς υπότιτλους. Κωμωδία ελληνικής παραγωγής 2021. Παραμονές Χριστουγέννων, σε ένα στρατόπεδο κάπου στα ελληνοτουρκικά σύνορα στον ‘Έβρο. Ένα ταξί καταφθάνει έξω από την πύλη και μεταφέρει, ασυνόδευτο, ένα μωρό. Ο ταξιτζής ενημερώνει το φυλάκιο πως η μαμά του μωρού το στέλνει στον μπαμπά του, που υπηρετεί τη θητεία του. Από εκείνη την στιγμή ξεκινούν όλα... Το απρόσμενο γεγονός βραχυκυκλώνει όχι μόνο τον ανίδεο πατέρα, αλλά και τους ρυθμούς της ακριτικής Μονάδας, καθώς η παραμονή του μωρού πρέπει να κρατηθεί μυστική μέχρι να βρεθεί λύση. Οι φαντάροι συνωμοτούν παρέχοντας κάλυψη και φροντίδα και αναλαμβάνουν βάρδιες... babysitting! Πρέπει να το ταΐζουν, να του αλλάζουν πάνες, να το νανουρίζουν και φυσικά όλα αυτά στα κρυφά, κάτω από τη μύτη του Επιλοχία, της Υπολοχαγού, που κάτι «μυρίζεται» και του ανυποψίαστου Διοικητή, που ζει στον δικό του κόσμο. Όμως, απρόβλεπτες επιπλοκές θα οδηγήσουν στα πρόθυρα πρόκλησης θερμού επεισοδίου, καθώς το μωρό περνάει κατά λάθος τα σύνορα και καταλήγει σε ένα... τούρκικο χαμάμ! Ο πατέρας του είναι αποφασισμένος να μπει στην Τουρκία και να φέρει το μωρό του πίσω. Παίζουν: Ίαν Στρατής, Γεράσιμος Γεννατάς, Δημήτρης Μακαλιάς, Μαρία Κωνσταντάκη, Μαριέλλα Σαββίδου, Λουκάς Κυριαζής, Βασίλης Ζώης, Αντώνης Χρήστου, Ευθύμης Χαλκίδης, Φανούρης Κορρές, Φοίβος Παπακώστας, Ιωάννης Μυστακίδης, Δάφνη Δίγκα, Λοΐζος Καμπούρης, Ερατώ Αγγουράκη, Δρόσος Σκώτης, Βασιλική Ιατροπούλου, Πάνος Ζυγούρος, Χρήστος Κραγιόπουλος, Σπύρος Πετούσης, Αλέξανδρος Φιλιππόπουλος, Αλέξανδρος Σκουρλέτης, Κωνσταντίνα Σαρδελλά, Τάσος Παλαντζίδης, Γιώργος Γιαννόπουλος, Άρης Κυπριανού. Σενάριο: Δημήτρης Αποστόλου &amp; Γιώργος Κορδέλλας. Σκηνοθεσία: Γιώργος Κορδέλλας. Διάρκεια: 86'.</desc>
+  <desc lang="gre">[Κ12 - Περιέχει σκηνές βίας]. Το πρόγραμμα μεταδίδεται με υπότιτλους. Περιπέτεια γαλλικής και αμερικανικής συμπαραγωγής 2016. Ο Τζέισον Στέιθαμ, ο καλύτερος και πιο σκληροτράχηλος σταρ ταινιών δράσης, αναλαμβάνει και πάλι τον θρυλικό χαρακτήρα του Άρθουρ Μπίσοπ. Αυτή τη φορά, ο μεθοδικός και αποτελεσματικός επαγγελματίας εκτελεστής Μπίσοπ, έχει αποφασίσει να αφήσει για τα καλά πίσω το παρελθόν του. Όμως η μοίρα -με τη μορφή του πιο σκληρού του αντιπάλου- έχει διαφορετικά σχέδια. Ο θρυλικός εκτελεστής είναι πλέον αναγκασμένος να φέρει εις πέρας τις πιο επικίνδυνες αποστολές της ζωής του, κάνοντάς τις μάλιστα να φανούν σαν ατύχημα, για να μπορέσει να σώσει τον μεγάλο του έρωτα... Παίζουν: Τζέισον Στέιθαμ, Τόμι Λι Τζόουνς, Τζέσικα Αλμπα, Μισέλ Γιέο. Σκηνοθεσία: Ντένις Γκάνσελ. Διάρκεια: 90΄.</desc>
 </programme>
-<programme start="20231002010000 +0300" stop="20231002034500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
+<programme start="20231002011500 +0300" stop="20231002034500 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K16] Bridesmaids</title>
   <title lang="gre">[K16] Φιλενάδες (Bridesmaids)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
@@ -8395,10 +8229,10 @@
   <desc lang="gre">[Κ16 - Περιέχει σκηνές βίας]. Το πρόγραμμα μεταδίδεται με υπότιτλους. Περιπέτεια αμερικανικής και γαλλικής συμπαραγωγής 2014. Ο Πολ Μαγκουάιρ και οι συνεργάτες του, Κέιν και Ντόχερτι, ζουν μέσα στο έγκλημα. Ένα βράδυ, ληστεύουν έναν μαφιόζο και μαζί με μία βαλίτσα με μετρητά, κλέβουν και ένα ρωσικό όπλο, το Tokarev. Έτσι, ξεκινάει ένας πόλεμος μεταξύ των Ιρλανδών εγκληματιών και της Ρωσικής μαφίας. Πέντε χρόνια μετά και ενώ ο Πολ έχει ξεκινήσει έναν νέο τρόπο ζωής μακριά από το έγκλημα, η Ρωσική μαφία απαγάγει την αγαπημένη κόρη του. Για να τη σώσει, ο Πολ θα αναγκαστεί να επιστρέψει στις «παλιές του συνήθειες»... Παίζουν: Νίκολας Κέιτζ, Μαξ Ράιαν, Ντάνι Γκλόβερ, Ρέιτσελ Νίκολς, Πίτερ Στορμάρε. Σκηνοθεσία: Πάκο Καμπέθας. Διάρκεια: 89΄.</desc>
 </programme>
 <programme start="20231004024500 +0300" stop="20231004060000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
-  <title lang="eng">[K16] Within</title>
-  <title lang="gre">[K16] Φωνές Μέσα Από Τους Τοίχους (Within)</title>
+  <title lang="eng">[K16] Tammy</title>
+  <title lang="gre">[K16] Tammy</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
-  <desc lang="gre">[Κ16 - Περιέχει σκηνές βίας]. Το πρόγραμμα μεταδίδεται με υπότιτλους. Θρίλερ αμερικανικής παραγωγής 2016. Ένας πατέρας μετακομίζει με την κόρη του και τη νέα του σύζυγο σε μια ήσυχη προαστιακή γειτονιά για μια καινούρια αρχή στη ζωή τους. Όταν όμως αρχίζουν να συμβαίνουν περίεργα πράγματα γύρω τους, καταλαβαίνουν πως κάτι συμβαίνει με το θεωρητικά τέλειο καινούριο τους σπίτι. Καθώς ανακαλύπτουν το θανάσιμα μυστικά του, κινδυνεύουν να γίνουν το επόμενο κεφάλαιο στο σκοτεινό του παρελθόν. Παίζουν: Μάικλ Βάρταν, Έριν Μοριάρτι, Ναντίν Βελάσκεθ. Σκηνοθεσία: Φιλ Κλέιντον. Διάρκεια: 82'.</desc>
+  <desc lang="gre">[Κ16 - Περιέχει απρεπή εκφορά λόγου]. Το πρόγραμμα μεταδίδεται με υπότιτλους. Κωμωδία αμερικανικής παραγωγής 2014. Όταν χάνει τη δουλειά της και ταυτόχρονα ανακαλύπτει τις απιστίες του άντρα της, η Τάμι ξεκινάει ένα ταξίδι με το αυτοκίνητο, παρέα με την αλκοολική  γιαγιά της... Παίζουν: Μελίσα Μακάρθι, Σούζαν Σάραντον, Κάθι Μπειτς, Άλισον Τζάνεϊ, Νταν Ακρόιντ, Μαρκ Ντιπλάς, Γκάρι Κόουλ, Νατ Φάξον, Τόνι Κολέτ, Μπεν Φαλκόνε, Σάντρα Ο, Σάρα Μπέικερ. Σκηνοθεσία: Μπεν Φαλκόνε. Διάρκεια: 92'.</desc>
 </programme>
 <programme start="20231004060000 +0300" stop="20231004070000 +0300" channel="1d6dcb6a350dc17dd9d610202adfe8d8">
   <title lang="eng">[K8] House - Season 8</title>
@@ -8579,26 +8413,6 @@
   <title lang="gre">[K12] Ανάμεσα Σε Δύο Κόσμους (The Postman)</title>
   <desc lang="eng">No program information available in English. In order to see the information in Greek adjust your language settings.</desc>
   <desc lang="gre">[Κ12 - Περιέχει σκηνές βίας]. Το πρόγραμμα μεταδίδεται με υπότιτλους. Περιπέτεια φαντασίας, αμερικανικής παραγωγής 1997. Στο μέλλον, οι ΗΠΑ δεν υπάρχουν ως ενιαίο κράτος! Αντίθετα, συμμορίες και ιδιωτικοί στρατοί λυμαίνονται τη χώρα. Στην προσπάθειά του να βρει φαγητό, ένας νομάδας με το παρατσούκλι Σέξπιρ πέφτει τυχαία πάνω σ' ένα εγκαταλειμμένο τζιπ της ταχυδρομικής υπηρεσίας. ‘Ετσι, υποδυόμενος τον ταχυδρόμο περιπλανιέται στις πόλεις ζητιανεύοντας φαΐ και διαδίδοντας ψέματα σχετικά με τη συγκρότηση μιας ενιαίας κυβέρνησης και την αρχή του τέλους για τη βία και την αναρχία. Προς έκπληξή του παρατηρεί πως οι άνθρωποι δίνουν βάση σ' αυτά που διαδίδει, αφού όλοι αναζητούν να πιστέψουν σε κάποιο ιδανικό. Τα λόγια του επηρεάζουν τον Φορντ, έναν χαρισματικό νεαρό, που δεν αργεί να οργανώσει τάγματα «ταχυδρόμων» και τελικά να αποτελέσει απειλή στα σχέδια του στρατηγού Μπέθλεεμ, επικεφαλής των Χόλνιστς, που σκοπεύει να διατηρήσει αυτή την κατάσταση βίας και αναρχίας προς όφελός του. Είναι θέμα χρόνου για την αμείλικτη σύγκρουση ανάμεσα στα δύο στρατόπεδα και ο Σέξπιρ δεν θ' αργήσει να βρεθεί στο πλευρό του Φορντ. Παίζουν: Κέβιν Κόσνερ, Γουίλ Πάτον, Λάρενζ Τέιτ, Τζέιμς Ρούσο. Σκηνοθεσία: Κέβιν Κόσνερ. Διάρκεια: 165'.</desc>
-</programme>
-<programme start="20230928170000 +0300" stop="20230928180000 +0300" channel="03437cfe3d611ea480699fdbb6cd4db2">
-  <title>Απίθανα Ταξίδια Με Τρένο - Δ Κύκλος (E)</title>
-  <sub-title>Ντοκιμαντέρ Μαρόκο  [Maroc]</sub-title>
-  <desc>[Amazing Train Journeys]    Το Μαρόκο είναι μια χώρα  είναι γεμάτη αντιθέσεις,: η παράδοση συμβαδίζει με τη νεωτερικότητα και συνεχώς περνάμε  από τον έναν κόσμο στον άλλο.</desc>
-</programme>
-<programme start="20230928180000 +0300" stop="20230928190000 +0300" channel="03437cfe3d611ea480699fdbb6cd4db2">
-  <title>Φράνκι Ντρέικ  - Γ Κύκλος (Α Τηλεοπτική Μετάδοση)</title>
-  <sub-title>Ψυχαγωγία (Σειρά) Με νέα ιδιότητα [Out on a Limb]</sub-title>
-  <desc>[Frankie Drake Mysteries]  Έτος παραγωγής: 2020  Όταν ένα showgirl πεθαίνει, η έρευνα της Φράνκι  την οδηγεί να πάει κρυφά ως χορεύτρια σε ένα νυχτερινό κέντρο διασκέδασης με θέμα τις γοργόνες.    Πρωταγωνιστούν: Lauren Lee Smith, Chantel Riley, Rebecca Liddiard</desc>
-</programme>
-<programme start="20230928190000 +0300" stop="20230928193000 +0300" channel="03437cfe3d611ea480699fdbb6cd4db2">
-  <title>Κοντά στο Ηφαίστειο  (E)</title>
-  <sub-title>Ντοκιμαντέρ (Ταξίδια) Νέα Ζηλανδία: Ηφαιστειακές Λίμνες στη Γη των Μαορί[Nouvelle-Z&amp;#233;lande : lacs volcaniques en terre maorie]</sub-title>
-  <desc>[Volcano Stories]  Έτος παραγωγής: 2021  Η Νέα-Ζηλανδία ήταν η χώρα με τις πιο βίαιες επίγειες εκρήξεις.</desc>
-</programme>
-<programme start="20230928193000 +0300" stop="20230928200000 +0300" channel="03437cfe3d611ea480699fdbb6cd4db2">
-  <title>Ειδήσεις από την Περιφέρεια/Καιρός</title>
-  <sub-title>Ενημέρωση</sub-title>
-  <desc>Ενημέρωση</desc>
 </programme>
 <programme start="20230928200000 +0300" stop="20230928210000 +0300" channel="03437cfe3d611ea480699fdbb6cd4db2">
   <title>Ακολουθώντας το Ποτάμι  - Α Κύκλος (E)</title>
@@ -9225,4 +9039,4 @@
   <sub-title>Ενημέρωση (Τηλεπεριοδικό)</sub-title>
   <desc>Έτος παραγωγής: 2023  Καθημερινή εκπομπή παραγωγής ΕΡΤ3 2023.    Αρχισυνταξία: Τζένη Ευθυμιαδου Σκηνοθεσία: Γιώργος Μπότσος</desc>
 </programme>
-<!--Generated on 2023-09-28 17:36:34--></tv>
+<!--Generated on 2023-09-28 20:11:20--></tv>
