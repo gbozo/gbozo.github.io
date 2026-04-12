@@ -1,0 +1,21 @@
+name: Download EPG Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  download-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download EPG
+        run: curl -L -o tv/epg.xml.gz https://www.open-epg.com/files/greece2.xml.gz
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update EPG
+          file_pattern: tv/epg.xml.gz
